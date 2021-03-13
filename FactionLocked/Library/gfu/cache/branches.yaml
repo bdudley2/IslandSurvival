@@ -10,73 +10,167 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
+  m_Name: 
+  m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-24T15:43:50.549-06:00
-  initializedAtString: 2021-02-24T15:26:24.261-06:00
+  lastUpdatedAtString: 2021-03-13T15:05:38.427-06:00
+  initializedAtString: 2021-03-13T13:19:44.358-06:00
   localBranches:
+  - name: Braydon
+    tracking: upstream/Braydon
+  - name: IS-18_drawableCanvas
+    tracking: upstream/IS-18_drawableCanvas
+  - name: master
+    tracking: origin/master
   - name: proto-1
     tracking: origin/proto-1
+  - name: test_tessa
+    tracking: origin/test_tessa
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/IS-18_drawableCanvas
+  - name: origin/master
     tracking: '[None]'
   - name: origin/proto-1
     tracking: '[None]'
-  - name: origin/proto-1
+  - name: origin/test_tessa
+    tracking: '[None]'
+  - name: upstream/Braydon
+    tracking: '[None]'
+  - name: upstream/Joy
+    tracking: '[None]'
+  - name: upstream/Kevin
+    tracking: '[None]'
+  - name: upstream/master
+    tracking: '[None]'
+  - name: upstream/Other
+    tracking: '[None]'
+  - name: upstream/Tessa
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/bdudley2/IslandSurvival.git
-    login:
-    user:
-    host:
+    url: https://github.com/tessarm2/IslandSurvival.git
+    login: 
+    user: 
+    host: 
     function: 0
-    token:
+    token: 
+  - name: upstream
+    url: https://github.com/bdudley2/IslandSurvival.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
     keys:
+    - Braydon
+    - IS-18_drawableCanvas
+    - master
     - proto-1
+    - test_tessa
     values:
+    - name: Braydon
+      remote:
+        name: upstream
+        url: https://github.com/bdudley2/IslandSurvival.git
+      trackingBranch: Braydon
+    - name: IS-18_drawableCanvas
+      remote:
+        name: upstream
+        url: https://github.com/bdudley2/IslandSurvival.git
+      trackingBranch: IS-18_drawableCanvas
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/tessarm2/IslandSurvival.git
+      trackingBranch: master
     - name: proto-1
       remote:
         name: origin
-        url: https://github.com/bdudley2/IslandSurvival.git
+        url: https://github.com/tessarm2/IslandSurvival.git
       trackingBranch: proto-1
+    - name: test_tessa
+      remote:
+        name: origin
+        url: https://github.com/tessarm2/IslandSurvival.git
+      trackingBranch: test_tessa
   remoteConfigBranches:
     keys:
     - origin
+    - upstream
     subKeys:
     - Values:
       - HEAD
       - master
       - proto-1
+      - test_tessa
+    - Values:
+      - Braydon
+      - Joy
+      - Kevin
+      - master
+      - Other
+      - Tessa
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch:
-      - name: IS-18_drawableCanvas
+          url: https://github.com/tessarm2/IslandSurvival.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
-          url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch:
+          url: https://github.com/tessarm2/IslandSurvival.git
+        trackingBranch: 
       - name: proto-1
         remote:
           name: origin
-          url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch:
-      - name: proto-1
+          url: https://github.com/tessarm2/IslandSurvival.git
+        trackingBranch: 
+      - name: test_tessa
         remote:
           name: origin
+          url: https://github.com/tessarm2/IslandSurvival.git
+        trackingBranch: 
+    - Values:
+      - name: Braydon
+        remote:
+          name: upstream
           url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch:
+        trackingBranch: 
+      - name: Joy
+        remote:
+          name: upstream
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
+      - name: Kevin
+        remote:
+          name: upstream
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: upstream
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
+      - name: Other
+        remote:
+          name: upstream
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
+      - name: Tessa
+        remote:
+          name: upstream
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
+    - upstream
     values:
     - name: origin
+      url: https://github.com/tessarm2/IslandSurvival.git
+    - name: upstream
       url: https://github.com/bdudley2/IslandSurvival.git
