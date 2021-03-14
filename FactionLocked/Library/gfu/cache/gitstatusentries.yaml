@@ -13,2133 +13,195 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-13T15:09:55.362-06:00
-  initializedAtString: 2021-03-13T15:09:55.362-06:00
+  lastUpdatedAtString: 2021-03-14T15:42:18.899-05:00
+  initializedAtString: 2021-03-14T14:21:23.491-05:00
   entries:
-  - path: FactionLocked\Assets\Animations.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Animations.meta
-    projectPath: Assets\Animations.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: FactionLocked\Assets\draw.cs
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\draw.cs
     projectPath: Assets\draw.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Assets\draw.cs.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\draw.cs.meta
-    projectPath: Assets\draw.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Assets\Interact.cs
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Interact.cs
-    projectPath: Assets\Interact.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Interact.cs.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Interact.cs.meta
-    projectPath: Assets\Interact.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Materials_and_Textures\Mats\Grey.mat
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Mats\Grey.mat
-    projectPath: Assets\Materials_and_Textures\Mats\Grey.mat
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Materials_and_Textures\Mats\Grey.mat.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Mats\Grey.mat.meta
-    projectPath: Assets\Materials_and_Textures\Mats\Grey.mat.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Materials_and_Textures\Mats\Sky.mat
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Mats\Sky.mat
-    projectPath: Assets\Materials_and_Textures\Mats\Sky.mat
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Materials_and_Textures\Mats\Sky.mat.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Mats\Sky.mat.meta
-    projectPath: Assets\Materials_and_Textures\Mats\Sky.mat.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Materials_and_Textures\Sprites.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Sprites.meta
-    projectPath: Assets\Materials_and_Textures\Sprites.meta
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Materials_and_Textures\Textures.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Materials_and_Textures\Textures.meta
-    projectPath: Assets\Materials_and_Textures\Textures.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Models.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Models.meta
-    projectPath: Assets\Models.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\MouseOver.cs
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\MouseOver.cs
-    projectPath: Assets\MouseOver.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\MouseOver.cs.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\MouseOver.cs.meta
-    projectPath: Assets\MouseOver.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Assets\Prefabs.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Prefabs.meta
-    projectPath: Assets\Prefabs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scenes\Joy.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scenes\Joy.meta
-    projectPath: Assets\Scenes\Joy.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scenes\Kevin.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scenes\Kevin.meta
-    projectPath: Assets\Scenes\Kevin.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scenes\Other.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scenes\Other.meta
-    projectPath: Assets\Scenes\Other.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scenes\Tessa.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scenes\Tessa.meta
-    projectPath: Assets\Scenes\Tessa.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: FactionLocked\Assets\Scenes\tessaProto.unity
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scenes\tessaProto.unity
     projectPath: Assets\Scenes\tessaProto.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Assets\Scripts.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scripts\Braydon.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts\Braydon.meta
-    projectPath: Assets\Scripts\Braydon.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scripts\Joy.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts\Joy.meta
-    projectPath: Assets\Scripts\Joy.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scripts\Kevin.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts\Kevin.meta
-    projectPath: Assets\Scripts\Kevin.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scripts\Other.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts\Other.meta
-    projectPath: Assets\Scripts\Other.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Assets\Scripts\Tessa.meta
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Assets\Scripts\Tessa.meta
-    projectPath: Assets\Scripts\Tessa.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: FactionLocked\Library\ArtifactDB
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Library\Artifacts\01\018abfa22aa15dc0a7c4f8e845ff0809
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\01\018abfa22aa15dc0a7c4f8e845ff0809
-    projectPath: Library\Artifacts\01\018abfa22aa15dc0a7c4f8e845ff0809
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\01\01b6d6a3c7f77109083fe97c26c56d10
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\01\01b6d6a3c7f77109083fe97c26c56d10
-    projectPath: Library\Artifacts\01\01b6d6a3c7f77109083fe97c26c56d10
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\01\01cc8966ede78ba2a9178f2dd375d458
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\01\01cc8966ede78ba2a9178f2dd375d458
-    projectPath: Library\Artifacts\01\01cc8966ede78ba2a9178f2dd375d458
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\01\01f8225a06bf926e17e907293a5a3e48
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\01\01f8225a06bf926e17e907293a5a3e48
-    projectPath: Library\Artifacts\01\01f8225a06bf926e17e907293a5a3e48
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\04\048f1185bf513628c4ee4a4ac1a23b00
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\04\048f1185bf513628c4ee4a4ac1a23b00
-    projectPath: Library\Artifacts\04\048f1185bf513628c4ee4a4ac1a23b00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\05\05b4bdabfaee20cdb7ea0bcc2db5a5eb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\05\05b4bdabfaee20cdb7ea0bcc2db5a5eb
-    projectPath: Library\Artifacts\05\05b4bdabfaee20cdb7ea0bcc2db5a5eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\06\0611dbe5c0d9a5556687bbf42c7b0c65
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\06\0611dbe5c0d9a5556687bbf42c7b0c65
-    projectPath: Library\Artifacts\06\0611dbe5c0d9a5556687bbf42c7b0c65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\08\0826a94d0cd891fbb01435f4c0cf0299
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\08\0826a94d0cd891fbb01435f4c0cf0299
-    projectPath: Library\Artifacts\08\0826a94d0cd891fbb01435f4c0cf0299
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\08\087da133b4958d635457d5a6bf64f117
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\08\087da133b4958d635457d5a6bf64f117
-    projectPath: Library\Artifacts\08\087da133b4958d635457d5a6bf64f117
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0a\0a4b83c356a583d4af9e56e50fdeab3e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0a\0a4b83c356a583d4af9e56e50fdeab3e
-    projectPath: Library\Artifacts\0a\0a4b83c356a583d4af9e56e50fdeab3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0d\0d1ecad7f0d8cd1244ddbf7a903693c7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0d\0d1ecad7f0d8cd1244ddbf7a903693c7
-    projectPath: Library\Artifacts\0d\0d1ecad7f0d8cd1244ddbf7a903693c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0d\0d6121aaf337ce195b78228c0faa3a91
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0d\0d6121aaf337ce195b78228c0faa3a91
-    projectPath: Library\Artifacts\0d\0d6121aaf337ce195b78228c0faa3a91
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0d\0dfb7fc194a7158fe88c21efbd743b53
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0d\0dfb7fc194a7158fe88c21efbd743b53
-    projectPath: Library\Artifacts\0d\0dfb7fc194a7158fe88c21efbd743b53
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0e\0ea139686893bbfda43ebe7f2252f2be
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0e\0ea139686893bbfda43ebe7f2252f2be
-    projectPath: Library\Artifacts\0e\0ea139686893bbfda43ebe7f2252f2be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0e\0ebc216b8c475d1dfac335b9e2655bff
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0e\0ebc216b8c475d1dfac335b9e2655bff
-    projectPath: Library\Artifacts\0e\0ebc216b8c475d1dfac335b9e2655bff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0f\0f176ebd4ea1de80723ea1e4d9e67453
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0f\0f176ebd4ea1de80723ea1e4d9e67453
-    projectPath: Library\Artifacts\0f\0f176ebd4ea1de80723ea1e4d9e67453
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0f\0fa2fce7f1335f87e7d8d13265dbac0a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0f\0fa2fce7f1335f87e7d8d13265dbac0a
-    projectPath: Library\Artifacts\0f\0fa2fce7f1335f87e7d8d13265dbac0a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0f\0fb82c2a8ae8f210216dfbe881cc5beb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0f\0fb82c2a8ae8f210216dfbe881cc5beb
-    projectPath: Library\Artifacts\0f\0fb82c2a8ae8f210216dfbe881cc5beb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\0f\0fe251907126cd78f78c92d177b9c012
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0f\0fe251907126cd78f78c92d177b9c012
-    projectPath: Library\Artifacts\0f\0fe251907126cd78f78c92d177b9c012
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\10\10c6b7b68a61c60caa31d0a23f082a99
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\10\10c6b7b68a61c60caa31d0a23f082a99
-    projectPath: Library\Artifacts\10\10c6b7b68a61c60caa31d0a23f082a99
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\10\10d6470d0173536d3b65e77d83fdc963
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\10\10d6470d0173536d3b65e77d83fdc963
-    projectPath: Library\Artifacts\10\10d6470d0173536d3b65e77d83fdc963
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\12\120644c501fe9056784d1c21380c91f2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\12\120644c501fe9056784d1c21380c91f2
-    projectPath: Library\Artifacts\12\120644c501fe9056784d1c21380c91f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\12\12e9264a70dcef3c53d9f612fb9b5d5b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\12\12e9264a70dcef3c53d9f612fb9b5d5b
-    projectPath: Library\Artifacts\12\12e9264a70dcef3c53d9f612fb9b5d5b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\13\13c98db8f769dd977a5c1edcdd8279c4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\13\13c98db8f769dd977a5c1edcdd8279c4
-    projectPath: Library\Artifacts\13\13c98db8f769dd977a5c1edcdd8279c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\15\1566229516919bf4be6405654030c1b4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\15\1566229516919bf4be6405654030c1b4
-    projectPath: Library\Artifacts\15\1566229516919bf4be6405654030c1b4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\15\15cdc5d2a1f18e06bab961306459ed7a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\15\15cdc5d2a1f18e06bab961306459ed7a
-    projectPath: Library\Artifacts\15\15cdc5d2a1f18e06bab961306459ed7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\16\16b881ecda8ff9eb358e029ddb9b5aeb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\16\16b881ecda8ff9eb358e029ddb9b5aeb
-    projectPath: Library\Artifacts\16\16b881ecda8ff9eb358e029ddb9b5aeb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\16\16dcaaee4e03dbe970374ebfcb0630aa
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\16\16dcaaee4e03dbe970374ebfcb0630aa
-    projectPath: Library\Artifacts\16\16dcaaee4e03dbe970374ebfcb0630aa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\16\16e59a1d858d23bd706b571458377ce7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\16\16e59a1d858d23bd706b571458377ce7
-    projectPath: Library\Artifacts\16\16e59a1d858d23bd706b571458377ce7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\18\182d479429bea1d8d011f8caf46dea16
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\18\182d479429bea1d8d011f8caf46dea16
-    projectPath: Library\Artifacts\18\182d479429bea1d8d011f8caf46dea16
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1b\1b145204020680a9d62cc6da01bbf941
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1b\1b145204020680a9d62cc6da01bbf941
-    projectPath: Library\Artifacts\1b\1b145204020680a9d62cc6da01bbf941
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1b\1b7cb092d23380fc4dca210beaecc862
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1b\1b7cb092d23380fc4dca210beaecc862
-    projectPath: Library\Artifacts\1b\1b7cb092d23380fc4dca210beaecc862
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1c\1c21667c3b672e7629d2def9a1c9a305
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1c\1c21667c3b672e7629d2def9a1c9a305
-    projectPath: Library\Artifacts\1c\1c21667c3b672e7629d2def9a1c9a305
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1c\1c3022336a3eb3f37131d9fa151dbecc
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1c\1c3022336a3eb3f37131d9fa151dbecc
-    projectPath: Library\Artifacts\1c\1c3022336a3eb3f37131d9fa151dbecc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1c\1cc33366a9249d12a1778e48f9e621c7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1c\1cc33366a9249d12a1778e48f9e621c7
-    projectPath: Library\Artifacts\1c\1cc33366a9249d12a1778e48f9e621c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1e\1e1b57e2c11d7e7ef1e4f48a12eee56b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1e\1e1b57e2c11d7e7ef1e4f48a12eee56b
-    projectPath: Library\Artifacts\1e\1e1b57e2c11d7e7ef1e4f48a12eee56b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1e\1e6ea9654f91403622a5a4a0de18f03f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1e\1e6ea9654f91403622a5a4a0de18f03f
-    projectPath: Library\Artifacts\1e\1e6ea9654f91403622a5a4a0de18f03f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1f\1f4c7bbb192197d4961b407f0efe18bd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1f\1f4c7bbb192197d4961b407f0efe18bd
-    projectPath: Library\Artifacts\1f\1f4c7bbb192197d4961b407f0efe18bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1f\1f581a1813551944fc8c9628fb101919
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1f\1f581a1813551944fc8c9628fb101919
-    projectPath: Library\Artifacts\1f\1f581a1813551944fc8c9628fb101919
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\1f\1fc2d6a7a902d11912e14b5ce92012d9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\1f\1fc2d6a7a902d11912e14b5ce92012d9
-    projectPath: Library\Artifacts\1f\1fc2d6a7a902d11912e14b5ce92012d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\23\233c7215e64941c7c4eabc3114c7e594
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\23\233c7215e64941c7c4eabc3114c7e594
-    projectPath: Library\Artifacts\23\233c7215e64941c7c4eabc3114c7e594
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\25\25137952a026e7352c9c4113aba26813
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\25\25137952a026e7352c9c4113aba26813
-    projectPath: Library\Artifacts\25\25137952a026e7352c9c4113aba26813
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\25\25704ba28b74c1b26320e00d3804fb09
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\25\25704ba28b74c1b26320e00d3804fb09
-    projectPath: Library\Artifacts\25\25704ba28b74c1b26320e00d3804fb09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\26\26613954e9c30e78a6c51d9ae0e6b6e8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\26\26613954e9c30e78a6c51d9ae0e6b6e8
-    projectPath: Library\Artifacts\26\26613954e9c30e78a6c51d9ae0e6b6e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\28\2865e54abc3809d73e9ef1f872b20569
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\28\2865e54abc3809d73e9ef1f872b20569
-    projectPath: Library\Artifacts\28\2865e54abc3809d73e9ef1f872b20569
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\28\288016f284a68d15a365e9f0b7bef311
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\28\288016f284a68d15a365e9f0b7bef311
-    projectPath: Library\Artifacts\28\288016f284a68d15a365e9f0b7bef311
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\29\29887f22b5963e87fc6dfdeb75f12eac
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\29\29887f22b5963e87fc6dfdeb75f12eac
-    projectPath: Library\Artifacts\29\29887f22b5963e87fc6dfdeb75f12eac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2a\2a0e12fc3ef1d6e838ab6ead7666b325
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2a\2a0e12fc3ef1d6e838ab6ead7666b325
-    projectPath: Library\Artifacts\2a\2a0e12fc3ef1d6e838ab6ead7666b325
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2a\2a23d147f1a5e73d789174702ca903d9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2a\2a23d147f1a5e73d789174702ca903d9
-    projectPath: Library\Artifacts\2a\2a23d147f1a5e73d789174702ca903d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2a\2a3e78378a6d9ec25f032c82e4979b2c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2a\2a3e78378a6d9ec25f032c82e4979b2c
-    projectPath: Library\Artifacts\2a\2a3e78378a6d9ec25f032c82e4979b2c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2a\2a5a4fb3f1cbf1d4f32152d6e5bc769a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2a\2a5a4fb3f1cbf1d4f32152d6e5bc769a
-    projectPath: Library\Artifacts\2a\2a5a4fb3f1cbf1d4f32152d6e5bc769a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2b\2b3a91410cdcc14cc66883e1968945f1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2b\2b3a91410cdcc14cc66883e1968945f1
-    projectPath: Library\Artifacts\2b\2b3a91410cdcc14cc66883e1968945f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2c\2ce5e837568868fa2f79459cc1b9cef7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2c\2ce5e837568868fa2f79459cc1b9cef7
-    projectPath: Library\Artifacts\2c\2ce5e837568868fa2f79459cc1b9cef7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2d\2dbf5cda1136761803023487fb155db6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2d\2dbf5cda1136761803023487fb155db6
-    projectPath: Library\Artifacts\2d\2dbf5cda1136761803023487fb155db6
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2d\2de11e6c66b0f04337038878874a88b0
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2d\2de11e6c66b0f04337038878874a88b0
-    projectPath: Library\Artifacts\2d\2de11e6c66b0f04337038878874a88b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2e\2e256a2768c8f61953d9aa0c1ba00705
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2e\2e256a2768c8f61953d9aa0c1ba00705
-    projectPath: Library\Artifacts\2e\2e256a2768c8f61953d9aa0c1ba00705
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\2f\2f40500e0272351dbc50ecab76e4e910
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\2f\2f40500e0272351dbc50ecab76e4e910
-    projectPath: Library\Artifacts\2f\2f40500e0272351dbc50ecab76e4e910
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\31\311d79b16d11dd27fe6f5e27e3b26ec0
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\31\311d79b16d11dd27fe6f5e27e3b26ec0
-    projectPath: Library\Artifacts\31\311d79b16d11dd27fe6f5e27e3b26ec0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\31\3171c531c4bc5731b21150164286860e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\31\3171c531c4bc5731b21150164286860e
-    projectPath: Library\Artifacts\31\3171c531c4bc5731b21150164286860e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\31\31f9281c43d7f600c79288500099852f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\31\31f9281c43d7f600c79288500099852f
-    projectPath: Library\Artifacts\31\31f9281c43d7f600c79288500099852f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\32\3273e5978229160ddfd49d4d26c12c5a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\32\3273e5978229160ddfd49d4d26c12c5a
-    projectPath: Library\Artifacts\32\3273e5978229160ddfd49d4d26c12c5a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\32\32b7a772a64ac0e669d0f0d053080eb7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\32\32b7a772a64ac0e669d0f0d053080eb7
-    projectPath: Library\Artifacts\32\32b7a772a64ac0e669d0f0d053080eb7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\34\340bee9769b55f4ee65bbc2218cd7632
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\34\340bee9769b55f4ee65bbc2218cd7632
-    projectPath: Library\Artifacts\34\340bee9769b55f4ee65bbc2218cd7632
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\35\35782adf1095096f9e0289c5bc19d850
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\35\35782adf1095096f9e0289c5bc19d850
-    projectPath: Library\Artifacts\35\35782adf1095096f9e0289c5bc19d850
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\35\35af62e42303f22a325888959e440e3c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\35\35af62e42303f22a325888959e440e3c
-    projectPath: Library\Artifacts\35\35af62e42303f22a325888959e440e3c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\36\36656d7c696eb9420b37d88ef230b32f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\36\36656d7c696eb9420b37d88ef230b32f
-    projectPath: Library\Artifacts\36\36656d7c696eb9420b37d88ef230b32f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\36\36a5f9c99ae57fcef5f33883b280b4f5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\36\36a5f9c99ae57fcef5f33883b280b4f5
-    projectPath: Library\Artifacts\36\36a5f9c99ae57fcef5f33883b280b4f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\37\37759158506c485d0165fbf7b3197f6b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\37\37759158506c485d0165fbf7b3197f6b
-    projectPath: Library\Artifacts\37\37759158506c485d0165fbf7b3197f6b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\37\37b68a4ca9f62f70cf1d5b03ab647f2a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\37\37b68a4ca9f62f70cf1d5b03ab647f2a
-    projectPath: Library\Artifacts\37\37b68a4ca9f62f70cf1d5b03ab647f2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\37\37cec4dc5d992812924a97b36c83f0b1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\37\37cec4dc5d992812924a97b36c83f0b1
-    projectPath: Library\Artifacts\37\37cec4dc5d992812924a97b36c83f0b1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\38\3846312f6456be0fafe4acc6071c0f2f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\38\3846312f6456be0fafe4acc6071c0f2f
-    projectPath: Library\Artifacts\38\3846312f6456be0fafe4acc6071c0f2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\38\38705b565f34c6631cc9a9e379977d73
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\38\38705b565f34c6631cc9a9e379977d73
-    projectPath: Library\Artifacts\38\38705b565f34c6631cc9a9e379977d73
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\38\38ca30442036f9a9dd9439734f067462
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\38\38ca30442036f9a9dd9439734f067462
-    projectPath: Library\Artifacts\38\38ca30442036f9a9dd9439734f067462
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\38\38dfbfb15826b90e9fd14cc0b4281f10
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\38\38dfbfb15826b90e9fd14cc0b4281f10
-    projectPath: Library\Artifacts\38\38dfbfb15826b90e9fd14cc0b4281f10
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\39\3902dbd24d93e69ebee2a72abe3e87c2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\39\3902dbd24d93e69ebee2a72abe3e87c2
-    projectPath: Library\Artifacts\39\3902dbd24d93e69ebee2a72abe3e87c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3a\3a7a6d0b3aed5516ab43824bf20202a4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3a\3a7a6d0b3aed5516ab43824bf20202a4
-    projectPath: Library\Artifacts\3a\3a7a6d0b3aed5516ab43824bf20202a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3a\3ad12451da39f102e2f8ba3f0bf8c652
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3a\3ad12451da39f102e2f8ba3f0bf8c652
-    projectPath: Library\Artifacts\3a\3ad12451da39f102e2f8ba3f0bf8c652
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3e\3ec1c15b7d2459cb233a0d136465e47f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3e\3ec1c15b7d2459cb233a0d136465e47f
-    projectPath: Library\Artifacts\3e\3ec1c15b7d2459cb233a0d136465e47f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3e\3ee7390fffadcd8995d1421efbc6c896
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3e\3ee7390fffadcd8995d1421efbc6c896
-    projectPath: Library\Artifacts\3e\3ee7390fffadcd8995d1421efbc6c896
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3f\3f162e1306a9eed5101d9089b3134346
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3f\3f162e1306a9eed5101d9089b3134346
-    projectPath: Library\Artifacts\3f\3f162e1306a9eed5101d9089b3134346
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\3f\3f3cf4932972d734ec226660ea73a814
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\3f\3f3cf4932972d734ec226660ea73a814
-    projectPath: Library\Artifacts\3f\3f3cf4932972d734ec226660ea73a814
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\41\411851b9430067b46ab1549ea97e6772
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\41\411851b9430067b46ab1549ea97e6772
-    projectPath: Library\Artifacts\41\411851b9430067b46ab1549ea97e6772
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\41\41f1e47c137973ec343843898cf69170
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\41\41f1e47c137973ec343843898cf69170
-    projectPath: Library\Artifacts\41\41f1e47c137973ec343843898cf69170
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\42\42fcf5bb54a9253f3bf57a41522ff824
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\42\42fcf5bb54a9253f3bf57a41522ff824
-    projectPath: Library\Artifacts\42\42fcf5bb54a9253f3bf57a41522ff824
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\43\43aef8e218de0476e105d040725d57c8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\43\43aef8e218de0476e105d040725d57c8
-    projectPath: Library\Artifacts\43\43aef8e218de0476e105d040725d57c8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\44\441716f4f924d37c84d1fb4c20cef491
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\44\441716f4f924d37c84d1fb4c20cef491
-    projectPath: Library\Artifacts\44\441716f4f924d37c84d1fb4c20cef491
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\44\441bd0afc90e96a0243c5a613ab62502
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\44\441bd0afc90e96a0243c5a613ab62502
-    projectPath: Library\Artifacts\44\441bd0afc90e96a0243c5a613ab62502
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\44\44e67a6356aa3c19ab3650703d0fc8d6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\44\44e67a6356aa3c19ab3650703d0fc8d6
-    projectPath: Library\Artifacts\44\44e67a6356aa3c19ab3650703d0fc8d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\46\461c8839fd0e7b38c01dab5fde8da5b9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\46\461c8839fd0e7b38c01dab5fde8da5b9
-    projectPath: Library\Artifacts\46\461c8839fd0e7b38c01dab5fde8da5b9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\46\46a50e3af042e875e942ab95092643d3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\46\46a50e3af042e875e942ab95092643d3
-    projectPath: Library\Artifacts\46\46a50e3af042e875e942ab95092643d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\46\46f50717d2ca9a63b49fb2fc78605370
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\46\46f50717d2ca9a63b49fb2fc78605370
-    projectPath: Library\Artifacts\46\46f50717d2ca9a63b49fb2fc78605370
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\47\4775d5bd6107c820a2e0da981c0a58cf
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\47\4775d5bd6107c820a2e0da981c0a58cf
-    projectPath: Library\Artifacts\47\4775d5bd6107c820a2e0da981c0a58cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\47\47c2e70969564b60a79da864f7f70827
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\47\47c2e70969564b60a79da864f7f70827
-    projectPath: Library\Artifacts\47\47c2e70969564b60a79da864f7f70827
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\48\4889bedd0d1de5f1b5ee2057350df0ef
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\48\4889bedd0d1de5f1b5ee2057350df0ef
-    projectPath: Library\Artifacts\48\4889bedd0d1de5f1b5ee2057350df0ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\49\4932b718c8e2f11c9b02dbcf705a678d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\49\4932b718c8e2f11c9b02dbcf705a678d
-    projectPath: Library\Artifacts\49\4932b718c8e2f11c9b02dbcf705a678d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\49\49747fb0dc91989dce0a7cde69c4bc5f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\49\49747fb0dc91989dce0a7cde69c4bc5f
-    projectPath: Library\Artifacts\49\49747fb0dc91989dce0a7cde69c4bc5f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\49\49ab9c41a61faba11effccc0ea7a1e00
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\49\49ab9c41a61faba11effccc0ea7a1e00
-    projectPath: Library\Artifacts\49\49ab9c41a61faba11effccc0ea7a1e00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\49\49b42eb001eb6912339e05787b8cdb76
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\49\49b42eb001eb6912339e05787b8cdb76
-    projectPath: Library\Artifacts\49\49b42eb001eb6912339e05787b8cdb76
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4a\4a0e555ce196805f034f6273790523e9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4a\4a0e555ce196805f034f6273790523e9
-    projectPath: Library\Artifacts\4a\4a0e555ce196805f034f6273790523e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4a\4ab35e2b606ef56617d70d5778d6eec4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4a\4ab35e2b606ef56617d70d5778d6eec4
-    projectPath: Library\Artifacts\4a\4ab35e2b606ef56617d70d5778d6eec4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4a\4abcca256835470c21be27fa66693b8c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4a\4abcca256835470c21be27fa66693b8c
-    projectPath: Library\Artifacts\4a\4abcca256835470c21be27fa66693b8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4a\4aeeccbeaaff639730758a61c882fed7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4a\4aeeccbeaaff639730758a61c882fed7
-    projectPath: Library\Artifacts\4a\4aeeccbeaaff639730758a61c882fed7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4b\4be9f6f8d5b69b22c45a18fc33121f61
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4b\4be9f6f8d5b69b22c45a18fc33121f61
-    projectPath: Library\Artifacts\4b\4be9f6f8d5b69b22c45a18fc33121f61
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4d\4d90f99e07169cea8af7351d7d13447f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4d\4d90f99e07169cea8af7351d7d13447f
-    projectPath: Library\Artifacts\4d\4d90f99e07169cea8af7351d7d13447f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4e\4e57f925a48be6eee28a2b0413d3a653
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4e\4e57f925a48be6eee28a2b0413d3a653
-    projectPath: Library\Artifacts\4e\4e57f925a48be6eee28a2b0413d3a653
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\4f\4f8e790abfa8169e8420f8a04126dda6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4f\4f8e790abfa8169e8420f8a04126dda6
-    projectPath: Library\Artifacts\4f\4f8e790abfa8169e8420f8a04126dda6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\50\50a61f8b850e74ad87eaac5e04377271
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\50\50a61f8b850e74ad87eaac5e04377271
-    projectPath: Library\Artifacts\50\50a61f8b850e74ad87eaac5e04377271
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\51\5123f7d687f2d0166c33b547809695c2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\51\5123f7d687f2d0166c33b547809695c2
-    projectPath: Library\Artifacts\51\5123f7d687f2d0166c33b547809695c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\51\51e234f6d64e413a29ea98cd8c1df23b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\51\51e234f6d64e413a29ea98cd8c1df23b
-    projectPath: Library\Artifacts\51\51e234f6d64e413a29ea98cd8c1df23b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\52\5254028bd990f1875ec508d64114d5f3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\52\5254028bd990f1875ec508d64114d5f3
-    projectPath: Library\Artifacts\52\5254028bd990f1875ec508d64114d5f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\53\53d040bdbc097a4b8af11523205b4da1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\53\53d040bdbc097a4b8af11523205b4da1
-    projectPath: Library\Artifacts\53\53d040bdbc097a4b8af11523205b4da1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\54\543246cabd755168a2016f1a675db8a4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\54\543246cabd755168a2016f1a675db8a4
-    projectPath: Library\Artifacts\54\543246cabd755168a2016f1a675db8a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\56\56183febcc977c28850ed358aacd92de
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\56\56183febcc977c28850ed358aacd92de
-    projectPath: Library\Artifacts\56\56183febcc977c28850ed358aacd92de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\56\567404f8f09cdcd68df5285903bc60c4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\56\567404f8f09cdcd68df5285903bc60c4
-    projectPath: Library\Artifacts\56\567404f8f09cdcd68df5285903bc60c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\56\568b975425e78f734b4befe51bc2ccd5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\56\568b975425e78f734b4befe51bc2ccd5
-    projectPath: Library\Artifacts\56\568b975425e78f734b4befe51bc2ccd5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\56\56db8a1085c737ad93b113f67b3128fa
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\56\56db8a1085c737ad93b113f67b3128fa
-    projectPath: Library\Artifacts\56\56db8a1085c737ad93b113f67b3128fa
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\57\57830585374e9962967862dd17f16c74
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\57\57830585374e9962967862dd17f16c74
-    projectPath: Library\Artifacts\57\57830585374e9962967862dd17f16c74
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\58\5861d4f2e572463359e88e84e8fb3316
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\58\5861d4f2e572463359e88e84e8fb3316
-    projectPath: Library\Artifacts\58\5861d4f2e572463359e88e84e8fb3316
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\58\58cf3edc94770fbef5867125811f86a1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\58\58cf3edc94770fbef5867125811f86a1
-    projectPath: Library\Artifacts\58\58cf3edc94770fbef5867125811f86a1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\59\592f86557e3ce161cbe9fe958b809791
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\59\592f86557e3ce161cbe9fe958b809791
-    projectPath: Library\Artifacts\59\592f86557e3ce161cbe9fe958b809791
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5b\5b5e026f59c0afef14d3b25064c1c7fd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5b\5b5e026f59c0afef14d3b25064c1c7fd
-    projectPath: Library\Artifacts\5b\5b5e026f59c0afef14d3b25064c1c7fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5b\5b7fa3bab39aa363b63053fd6077f6fa
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5b\5b7fa3bab39aa363b63053fd6077f6fa
-    projectPath: Library\Artifacts\5b\5b7fa3bab39aa363b63053fd6077f6fa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5c\5c2c59a46ffaaa0d5608b0920caf21df
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5c\5c2c59a46ffaaa0d5608b0920caf21df
-    projectPath: Library\Artifacts\5c\5c2c59a46ffaaa0d5608b0920caf21df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5c\5c2f2d80dfc7064753a7ce89ccefe9c8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5c\5c2f2d80dfc7064753a7ce89ccefe9c8
-    projectPath: Library\Artifacts\5c\5c2f2d80dfc7064753a7ce89ccefe9c8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5c\5ca2cb04d4bb5e1bf8f97de5cd357ff1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5c\5ca2cb04d4bb5e1bf8f97de5cd357ff1
-    projectPath: Library\Artifacts\5c\5ca2cb04d4bb5e1bf8f97de5cd357ff1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5c\5cd88360f0c65495de329d917cf0c93f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5c\5cd88360f0c65495de329d917cf0c93f
-    projectPath: Library\Artifacts\5c\5cd88360f0c65495de329d917cf0c93f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5d\5dc5fc83fa395e8c5b0d654ea1499445
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5d\5dc5fc83fa395e8c5b0d654ea1499445
-    projectPath: Library\Artifacts\5d\5dc5fc83fa395e8c5b0d654ea1499445
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5e\5eadee64fe88518125e9f57a7c4d0bbf
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5e\5eadee64fe88518125e9f57a7c4d0bbf
-    projectPath: Library\Artifacts\5e\5eadee64fe88518125e9f57a7c4d0bbf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5e\5ec342e3ee7724199b5c4c764d3b510a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5e\5ec342e3ee7724199b5c4c764d3b510a
-    projectPath: Library\Artifacts\5e\5ec342e3ee7724199b5c4c764d3b510a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5f\5f339bd79f92c74091e666390633f4f2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5f\5f339bd79f92c74091e666390633f4f2
-    projectPath: Library\Artifacts\5f\5f339bd79f92c74091e666390633f4f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\5f\5ffb29e8b579bff98fcecbc89a697dcb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5f\5ffb29e8b579bff98fcecbc89a697dcb
-    projectPath: Library\Artifacts\5f\5ffb29e8b579bff98fcecbc89a697dcb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\61\617a27689cd13662fa68e7832af87780
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\61\617a27689cd13662fa68e7832af87780
-    projectPath: Library\Artifacts\61\617a27689cd13662fa68e7832af87780
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\61\61ead8d5bae77d8ad7a821a1006551cb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\61\61ead8d5bae77d8ad7a821a1006551cb
-    projectPath: Library\Artifacts\61\61ead8d5bae77d8ad7a821a1006551cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\65\657cffa8a11e784b711f8538493d2d5b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\65\657cffa8a11e784b711f8538493d2d5b
-    projectPath: Library\Artifacts\65\657cffa8a11e784b711f8538493d2d5b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\65\65d4b08da9663e0f485a5d2d206ad944
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\65\65d4b08da9663e0f485a5d2d206ad944
-    projectPath: Library\Artifacts\65\65d4b08da9663e0f485a5d2d206ad944
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\65\65d5e079c548f17bb2dc7939154af523
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\65\65d5e079c548f17bb2dc7939154af523
-    projectPath: Library\Artifacts\65\65d5e079c548f17bb2dc7939154af523
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\66\6611f365730a9176bd72fc690ba5d8a9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\66\6611f365730a9176bd72fc690ba5d8a9
-    projectPath: Library\Artifacts\66\6611f365730a9176bd72fc690ba5d8a9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\67\67f74664fda79d9380cc1ca4c01e32e2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\67\67f74664fda79d9380cc1ca4c01e32e2
-    projectPath: Library\Artifacts\67\67f74664fda79d9380cc1ca4c01e32e2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\68\687c808fb3e62b7d9ec351a5de9cfc87
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\68\687c808fb3e62b7d9ec351a5de9cfc87
-    projectPath: Library\Artifacts\68\687c808fb3e62b7d9ec351a5de9cfc87
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\68\68c527282bd02a6a0490b9d052e65ec5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\68\68c527282bd02a6a0490b9d052e65ec5
-    projectPath: Library\Artifacts\68\68c527282bd02a6a0490b9d052e65ec5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\68\68ed64f9876487c8134b2e324b9212dd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\68\68ed64f9876487c8134b2e324b9212dd
-    projectPath: Library\Artifacts\68\68ed64f9876487c8134b2e324b9212dd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\69\69242c2138f47187710e8f7b6d1b023d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\69\69242c2138f47187710e8f7b6d1b023d
-    projectPath: Library\Artifacts\69\69242c2138f47187710e8f7b6d1b023d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\69\69f4b17e711915c369944dbd20909f84
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\69\69f4b17e711915c369944dbd20909f84
-    projectPath: Library\Artifacts\69\69f4b17e711915c369944dbd20909f84
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6a\6a6fca34aa569ca1cabc8b84e7534495
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6a\6a6fca34aa569ca1cabc8b84e7534495
-    projectPath: Library\Artifacts\6a\6a6fca34aa569ca1cabc8b84e7534495
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6b\6b631ecfac793bdb801df96afc12027e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6b\6b631ecfac793bdb801df96afc12027e
-    projectPath: Library\Artifacts\6b\6b631ecfac793bdb801df96afc12027e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6b\6ba56e493c5905d17b9a6a19143d677f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6b\6ba56e493c5905d17b9a6a19143d677f
-    projectPath: Library\Artifacts\6b\6ba56e493c5905d17b9a6a19143d677f
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\Artifacts\6b\6bfa6c14bd87c3e30bc8e3feb9d5a420
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6b\6bfa6c14bd87c3e30bc8e3feb9d5a420
-    projectPath: Library\Artifacts\6b\6bfa6c14bd87c3e30bc8e3feb9d5a420
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6c\6c8ed16c56bc09be6a171a43af80db98
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6c\6c8ed16c56bc09be6a171a43af80db98
-    projectPath: Library\Artifacts\6c\6c8ed16c56bc09be6a171a43af80db98
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6c\6cd2bd5e70deec79640d04ef4d5c0456
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6c\6cd2bd5e70deec79640d04ef4d5c0456
-    projectPath: Library\Artifacts\6c\6cd2bd5e70deec79640d04ef4d5c0456
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6d\6d13a6e078239386659f681d476f2c75
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6d\6d13a6e078239386659f681d476f2c75
-    projectPath: Library\Artifacts\6d\6d13a6e078239386659f681d476f2c75
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6d\6d4f2b3b54a1b0bc29c308f0bc30d670
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6d\6d4f2b3b54a1b0bc29c308f0bc30d670
-    projectPath: Library\Artifacts\6d\6d4f2b3b54a1b0bc29c308f0bc30d670
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6e\6e860d52ad1d9ed5db909ed5b8f46b44
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6e\6e860d52ad1d9ed5db909ed5b8f46b44
-    projectPath: Library\Artifacts\6e\6e860d52ad1d9ed5db909ed5b8f46b44
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\6f\6fb69a7983d3d94ab910f69e0895d5ef
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6f\6fb69a7983d3d94ab910f69e0895d5ef
-    projectPath: Library\Artifacts\6f\6fb69a7983d3d94ab910f69e0895d5ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\70\701df2aff7b14f30496b92b592937804
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\70\701df2aff7b14f30496b92b592937804
-    projectPath: Library\Artifacts\70\701df2aff7b14f30496b92b592937804
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\70\705841ac07eb25d1dc7bd20664f0951e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\70\705841ac07eb25d1dc7bd20664f0951e
-    projectPath: Library\Artifacts\70\705841ac07eb25d1dc7bd20664f0951e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\70\707b7d1b88fb0138700c24c14667d910
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\70\707b7d1b88fb0138700c24c14667d910
-    projectPath: Library\Artifacts\70\707b7d1b88fb0138700c24c14667d910
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\72\72ed8b352e3e5ba40cf4ef8943f35dfd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\72\72ed8b352e3e5ba40cf4ef8943f35dfd
-    projectPath: Library\Artifacts\72\72ed8b352e3e5ba40cf4ef8943f35dfd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\73\7342cf2521b19dda22c193a1f94d5d93
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\73\7342cf2521b19dda22c193a1f94d5d93
-    projectPath: Library\Artifacts\73\7342cf2521b19dda22c193a1f94d5d93
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\75\7515ffdaa168ad0d1e1047e323c2fd19
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\75\7515ffdaa168ad0d1e1047e323c2fd19
-    projectPath: Library\Artifacts\75\7515ffdaa168ad0d1e1047e323c2fd19
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\75\759d5ed653f9a4c9b663be990a03fdf5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\75\759d5ed653f9a4c9b663be990a03fdf5
-    projectPath: Library\Artifacts\75\759d5ed653f9a4c9b663be990a03fdf5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\77\775a48bebfe75af3aa54a7382eec2d11
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\77\775a48bebfe75af3aa54a7382eec2d11
-    projectPath: Library\Artifacts\77\775a48bebfe75af3aa54a7382eec2d11
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\77\7795cc4a436b4d49459a35c2d169535c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\77\7795cc4a436b4d49459a35c2d169535c
-    projectPath: Library\Artifacts\77\7795cc4a436b4d49459a35c2d169535c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\78\780139c10e0fdb2c88a65c460ca48ea1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\78\780139c10e0fdb2c88a65c460ca48ea1
-    projectPath: Library\Artifacts\78\780139c10e0fdb2c88a65c460ca48ea1
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\Artifacts\78\784dd2d830293acc071b9bf9324eebd3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\78\784dd2d830293acc071b9bf9324eebd3
-    projectPath: Library\Artifacts\78\784dd2d830293acc071b9bf9324eebd3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\78\786a50a68c5557ddb77d93c78821d198
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\78\786a50a68c5557ddb77d93c78821d198
-    projectPath: Library\Artifacts\78\786a50a68c5557ddb77d93c78821d198
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\79\795db553cf690b9ee310f19643165b51
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\79\795db553cf690b9ee310f19643165b51
-    projectPath: Library\Artifacts\79\795db553cf690b9ee310f19643165b51
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\7a\7a61eeaaa6b000635c4d829b2adfb15a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\7a\7a61eeaaa6b000635c4d829b2adfb15a
-    projectPath: Library\Artifacts\7a\7a61eeaaa6b000635c4d829b2adfb15a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\7b\7b0ec4cc4b9f7fe224d0c87ad653a2dd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\7b\7b0ec4cc4b9f7fe224d0c87ad653a2dd
-    projectPath: Library\Artifacts\7b\7b0ec4cc4b9f7fe224d0c87ad653a2dd
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\Artifacts\7c\7c66b0bda1fb36c0f10f2fab5c35b138
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\7c\7c66b0bda1fb36c0f10f2fab5c35b138
-    projectPath: Library\Artifacts\7c\7c66b0bda1fb36c0f10f2fab5c35b138
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\7c\7cfe77df913ab87ee5d852c73ed36c56
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\7c\7cfe77df913ab87ee5d852c73ed36c56
-    projectPath: Library\Artifacts\7c\7cfe77df913ab87ee5d852c73ed36c56
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\7d\7d6333a867e8018502bdf6ae123594e6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\7d\7d6333a867e8018502bdf6ae123594e6
-    projectPath: Library\Artifacts\7d\7d6333a867e8018502bdf6ae123594e6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\80\80192c4f2e6a71646f46815e81b9f365
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\80\80192c4f2e6a71646f46815e81b9f365
-    projectPath: Library\Artifacts\80\80192c4f2e6a71646f46815e81b9f365
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\80\80a089e52f5d664ddd2d2323e32e3c28
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\80\80a089e52f5d664ddd2d2323e32e3c28
-    projectPath: Library\Artifacts\80\80a089e52f5d664ddd2d2323e32e3c28
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\80\80e1f597b5c88f1e3e7a7b38e0d152ef
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\80\80e1f597b5c88f1e3e7a7b38e0d152ef
-    projectPath: Library\Artifacts\80\80e1f597b5c88f1e3e7a7b38e0d152ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\82\826bc5bdb715d1b8d1ff30ff255250bc
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\82\826bc5bdb715d1b8d1ff30ff255250bc
-    projectPath: Library\Artifacts\82\826bc5bdb715d1b8d1ff30ff255250bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\82\82d8a2d5e7be0cec6e4b96f3d84ea796
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\82\82d8a2d5e7be0cec6e4b96f3d84ea796
-    projectPath: Library\Artifacts\82\82d8a2d5e7be0cec6e4b96f3d84ea796
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\83\83f7fb22d8d5fd68fab8be6113e6bf1e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\83\83f7fb22d8d5fd68fab8be6113e6bf1e
-    projectPath: Library\Artifacts\83\83f7fb22d8d5fd68fab8be6113e6bf1e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\84\84e8cc91b909f0209da929143f81f37d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\84\84e8cc91b909f0209da929143f81f37d
-    projectPath: Library\Artifacts\84\84e8cc91b909f0209da929143f81f37d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\85\851cffbf65a0141b21a983e8b75c605d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\85\851cffbf65a0141b21a983e8b75c605d
-    projectPath: Library\Artifacts\85\851cffbf65a0141b21a983e8b75c605d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\85\856d6279abbeb798077fbb776b731ace
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\85\856d6279abbeb798077fbb776b731ace
-    projectPath: Library\Artifacts\85\856d6279abbeb798077fbb776b731ace
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\85\8580f2fdc0b8e980328bf0560d0a36f8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\85\8580f2fdc0b8e980328bf0560d0a36f8
-    projectPath: Library\Artifacts\85\8580f2fdc0b8e980328bf0560d0a36f8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\87\87549ff7b28ff92f766d81c019d2ac57
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\87\87549ff7b28ff92f766d81c019d2ac57
-    projectPath: Library\Artifacts\87\87549ff7b28ff92f766d81c019d2ac57
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\88\8826e19d308cbe819532e6c41c09fe11
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\88\8826e19d308cbe819532e6c41c09fe11
-    projectPath: Library\Artifacts\88\8826e19d308cbe819532e6c41c09fe11
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\89\8967001fe1b00182425b32c4584c86f6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\89\8967001fe1b00182425b32c4584c86f6
-    projectPath: Library\Artifacts\89\8967001fe1b00182425b32c4584c86f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8a\8af0bc6e7f4b055cebd23d68228b6521
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8a\8af0bc6e7f4b055cebd23d68228b6521
-    projectPath: Library\Artifacts\8a\8af0bc6e7f4b055cebd23d68228b6521
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8b\8b11524e4d906ca3d6195f6e0d8ddfe4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8b\8b11524e4d906ca3d6195f6e0d8ddfe4
-    projectPath: Library\Artifacts\8b\8b11524e4d906ca3d6195f6e0d8ddfe4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8b\8b377acdd0715780e456e22c6915d001
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8b\8b377acdd0715780e456e22c6915d001
-    projectPath: Library\Artifacts\8b\8b377acdd0715780e456e22c6915d001
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8c\8c988257c397d3438df53949713293a2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8c\8c988257c397d3438df53949713293a2
-    projectPath: Library\Artifacts\8c\8c988257c397d3438df53949713293a2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8c\8cae1cd354f15d72af7518e0324eb55e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8c\8cae1cd354f15d72af7518e0324eb55e
-    projectPath: Library\Artifacts\8c\8cae1cd354f15d72af7518e0324eb55e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8c\8ce612bed77d5b872d6a4bf69ed12f49
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8c\8ce612bed77d5b872d6a4bf69ed12f49
-    projectPath: Library\Artifacts\8c\8ce612bed77d5b872d6a4bf69ed12f49
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8e\8eae549c2cbc5baae333caeaac63fab4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8e\8eae549c2cbc5baae333caeaac63fab4
-    projectPath: Library\Artifacts\8e\8eae549c2cbc5baae333caeaac63fab4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8e\8eb3ef9a6846fa29371c572b3bc26ea1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8e\8eb3ef9a6846fa29371c572b3bc26ea1
-    projectPath: Library\Artifacts\8e\8eb3ef9a6846fa29371c572b3bc26ea1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\8f\8f434b5687c2b932c374be5cd3be1c92
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\8f\8f434b5687c2b932c374be5cd3be1c92
-    projectPath: Library\Artifacts\8f\8f434b5687c2b932c374be5cd3be1c92
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\90\90d71371d9780d98627ede6d87655bdf
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\90\90d71371d9780d98627ede6d87655bdf
-    projectPath: Library\Artifacts\90\90d71371d9780d98627ede6d87655bdf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\91\919163b65162335185c07b15516b329d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\91\919163b65162335185c07b15516b329d
-    projectPath: Library\Artifacts\91\919163b65162335185c07b15516b329d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\94\94ea9189d0d7626738381c201710b002
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\94\94ea9189d0d7626738381c201710b002
-    projectPath: Library\Artifacts\94\94ea9189d0d7626738381c201710b002
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\95\951fb9474f2324be9228ea8ae502dded
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\95\951fb9474f2324be9228ea8ae502dded
-    projectPath: Library\Artifacts\95\951fb9474f2324be9228ea8ae502dded
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\95\95425d43804f869b8b55fe6332895112
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\95\95425d43804f869b8b55fe6332895112
-    projectPath: Library\Artifacts\95\95425d43804f869b8b55fe6332895112
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\96\960fb1ef3fde963bf73b240ff4752f2c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\96\960fb1ef3fde963bf73b240ff4752f2c
-    projectPath: Library\Artifacts\96\960fb1ef3fde963bf73b240ff4752f2c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\96\963eb695b368b3a4b76b73e654105d2b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\96\963eb695b368b3a4b76b73e654105d2b
-    projectPath: Library\Artifacts\96\963eb695b368b3a4b76b73e654105d2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\96\966ab462e1947dead145f2d41b370fe3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\96\966ab462e1947dead145f2d41b370fe3
-    projectPath: Library\Artifacts\96\966ab462e1947dead145f2d41b370fe3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\96\9677de23aefeb47522f037783e1338b6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\96\9677de23aefeb47522f037783e1338b6
-    projectPath: Library\Artifacts\96\9677de23aefeb47522f037783e1338b6
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\Artifacts\96\96ce11c2f9a2f61662edf857bd2bbf2c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\96\96ce11c2f9a2f61662edf857bd2bbf2c
-    projectPath: Library\Artifacts\96\96ce11c2f9a2f61662edf857bd2bbf2c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\97\970908266308b7d92a3b97f2e8da27a5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\97\970908266308b7d92a3b97f2e8da27a5
-    projectPath: Library\Artifacts\97\970908266308b7d92a3b97f2e8da27a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\97\97a9a8e249669dc5b2e300b9da322cff
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\97\97a9a8e249669dc5b2e300b9da322cff
-    projectPath: Library\Artifacts\97\97a9a8e249669dc5b2e300b9da322cff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\98\98330eedcbb45a38c081678f53df03e5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\98\98330eedcbb45a38c081678f53df03e5
-    projectPath: Library\Artifacts\98\98330eedcbb45a38c081678f53df03e5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\98\98cbe99f802981c53c191c45efc9f1d6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\98\98cbe99f802981c53c191c45efc9f1d6
-    projectPath: Library\Artifacts\98\98cbe99f802981c53c191c45efc9f1d6
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\99\99fa231017e2aa889d6afa8d47c1a680
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\99\99fa231017e2aa889d6afa8d47c1a680
-    projectPath: Library\Artifacts\99\99fa231017e2aa889d6afa8d47c1a680
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9b\9b87c2e0f1f1a5a87610963140415bf7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9b\9b87c2e0f1f1a5a87610963140415bf7
-    projectPath: Library\Artifacts\9b\9b87c2e0f1f1a5a87610963140415bf7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9c\9c23da4473d8727c2b3820e9216f0af4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9c\9c23da4473d8727c2b3820e9216f0af4
-    projectPath: Library\Artifacts\9c\9c23da4473d8727c2b3820e9216f0af4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9c\9c8a9d31e2c29b8bfdb3c54406617aa1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9c\9c8a9d31e2c29b8bfdb3c54406617aa1
-    projectPath: Library\Artifacts\9c\9c8a9d31e2c29b8bfdb3c54406617aa1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9d\9d28214b2bbaa07f8f3d22df8a67c8ae
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9d\9d28214b2bbaa07f8f3d22df8a67c8ae
-    projectPath: Library\Artifacts\9d\9d28214b2bbaa07f8f3d22df8a67c8ae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9d\9d8ee0c58db0a2e1fc1f9bc55b660726
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9d\9d8ee0c58db0a2e1fc1f9bc55b660726
-    projectPath: Library\Artifacts\9d\9d8ee0c58db0a2e1fc1f9bc55b660726
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9e\9ef668cb6c952bed3ce5c03c9addf3e8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9e\9ef668cb6c952bed3ce5c03c9addf3e8
-    projectPath: Library\Artifacts\9e\9ef668cb6c952bed3ce5c03c9addf3e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9f\9fa353a3964daf2a9d11a8f6d83e2461
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9f\9fa353a3964daf2a9d11a8f6d83e2461
-    projectPath: Library\Artifacts\9f\9fa353a3964daf2a9d11a8f6d83e2461
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\9f\9fccf90865e46f9ca917ce3fb9591bc0
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\9f\9fccf90865e46f9ca917ce3fb9591bc0
-    projectPath: Library\Artifacts\9f\9fccf90865e46f9ca917ce3fb9591bc0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a0\a04607407e2bd1e977a2f059096df1d7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a0\a04607407e2bd1e977a2f059096df1d7
-    projectPath: Library\Artifacts\a0\a04607407e2bd1e977a2f059096df1d7
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a0\a0e2cd62bd676198daab5761e2151ec7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a0\a0e2cd62bd676198daab5761e2151ec7
-    projectPath: Library\Artifacts\a0\a0e2cd62bd676198daab5761e2151ec7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a0\a0e4157834dc5d8cf84e772549683f13
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a0\a0e4157834dc5d8cf84e772549683f13
-    projectPath: Library\Artifacts\a0\a0e4157834dc5d8cf84e772549683f13
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a1\a1e93fd29d04ecd6332ed5be6efceb15
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a1\a1e93fd29d04ecd6332ed5be6efceb15
-    projectPath: Library\Artifacts\a1\a1e93fd29d04ecd6332ed5be6efceb15
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a2\a2bf0e4e41b0f740ec7f6d7b0f5f0c08
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a2\a2bf0e4e41b0f740ec7f6d7b0f5f0c08
-    projectPath: Library\Artifacts\a2\a2bf0e4e41b0f740ec7f6d7b0f5f0c08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a3\a3f913178bf0180f8e7a1c72580d4c1e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a3\a3f913178bf0180f8e7a1c72580d4c1e
-    projectPath: Library\Artifacts\a3\a3f913178bf0180f8e7a1c72580d4c1e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a4\a4a73649c2c6cd59e7d0a215cea72029
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a4\a4a73649c2c6cd59e7d0a215cea72029
-    projectPath: Library\Artifacts\a4\a4a73649c2c6cd59e7d0a215cea72029
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a5\a5b7454fafeb8f49f54944102ae01706
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a5\a5b7454fafeb8f49f54944102ae01706
-    projectPath: Library\Artifacts\a5\a5b7454fafeb8f49f54944102ae01706
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a6\a6dde25f6dee0bf270f7b79e516135a8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a6\a6dde25f6dee0bf270f7b79e516135a8
-    projectPath: Library\Artifacts\a6\a6dde25f6dee0bf270f7b79e516135a8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a8\a8b0448fb5723c8128df5e315dae484d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a8\a8b0448fb5723c8128df5e315dae484d
-    projectPath: Library\Artifacts\a8\a8b0448fb5723c8128df5e315dae484d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a9\a96ae1a1109b0dcfe02d23a5f220d29b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a9\a96ae1a1109b0dcfe02d23a5f220d29b
-    projectPath: Library\Artifacts\a9\a96ae1a1109b0dcfe02d23a5f220d29b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\a9\a9a2114e0b99e635df363312bbf27072
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a9\a9a2114e0b99e635df363312bbf27072
-    projectPath: Library\Artifacts\a9\a9a2114e0b99e635df363312bbf27072
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ab\abde7eb3679249cabd67e8fd42b5a9f7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ab\abde7eb3679249cabd67e8fd42b5a9f7
-    projectPath: Library\Artifacts\ab\abde7eb3679249cabd67e8fd42b5a9f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ac\ac3a7b347257128bd463ff25c8884cb3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ac\ac3a7b347257128bd463ff25c8884cb3
-    projectPath: Library\Artifacts\ac\ac3a7b347257128bd463ff25c8884cb3
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ac\ac8082a274ca36c3f223d0fd09050846
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ac\ac8082a274ca36c3f223d0fd09050846
-    projectPath: Library\Artifacts\ac\ac8082a274ca36c3f223d0fd09050846
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ad\ad7b63bc502da5189082ecabed13490c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ad\ad7b63bc502da5189082ecabed13490c
-    projectPath: Library\Artifacts\ad\ad7b63bc502da5189082ecabed13490c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ad\ade23cc020b0b1506b19e8e85ea98c99
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ad\ade23cc020b0b1506b19e8e85ea98c99
-    projectPath: Library\Artifacts\ad\ade23cc020b0b1506b19e8e85ea98c99
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ad\adfb2be81b818703b0c962dc0d2a5944
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ad\adfb2be81b818703b0c962dc0d2a5944
-    projectPath: Library\Artifacts\ad\adfb2be81b818703b0c962dc0d2a5944
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ae\ae30bfc8eb63bb0d24a4d0351e8f711c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ae\ae30bfc8eb63bb0d24a4d0351e8f711c
-    projectPath: Library\Artifacts\ae\ae30bfc8eb63bb0d24a4d0351e8f711c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\af\af519557fd78ea69515a9f4f87d1539e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\af\af519557fd78ea69515a9f4f87d1539e
-    projectPath: Library\Artifacts\af\af519557fd78ea69515a9f4f87d1539e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\af\afedad30a84f6809972e70dcafb5e7ed
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\af\afedad30a84f6809972e70dcafb5e7ed
-    projectPath: Library\Artifacts\af\afedad30a84f6809972e70dcafb5e7ed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b0\b040160be2820e9c0815479f72892a30
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b0\b040160be2820e9c0815479f72892a30
-    projectPath: Library\Artifacts\b0\b040160be2820e9c0815479f72892a30
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b1\b1e4ca48848cec704a33288127898aae
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b1\b1e4ca48848cec704a33288127898aae
-    projectPath: Library\Artifacts\b1\b1e4ca48848cec704a33288127898aae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b4\b4385b54276938daf0935940764bfcfa
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b4\b4385b54276938daf0935940764bfcfa
-    projectPath: Library\Artifacts\b4\b4385b54276938daf0935940764bfcfa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b6\b63422d2b192bee168a0edeed76b07b7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b6\b63422d2b192bee168a0edeed76b07b7
-    projectPath: Library\Artifacts\b6\b63422d2b192bee168a0edeed76b07b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b6\b6e2fc205b1a27436e02d183b6118586
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b6\b6e2fc205b1a27436e02d183b6118586
-    projectPath: Library\Artifacts\b6\b6e2fc205b1a27436e02d183b6118586
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b7\b71e9e0ceb1add2d5d1e3ec6a7875bff
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b7\b71e9e0ceb1add2d5d1e3ec6a7875bff
-    projectPath: Library\Artifacts\b7\b71e9e0ceb1add2d5d1e3ec6a7875bff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\b8\b8644a9144f9477a1b04ce04a4202e88
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b8\b8644a9144f9477a1b04ce04a4202e88
-    projectPath: Library\Artifacts\b8\b8644a9144f9477a1b04ce04a4202e88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ba\ba602ecc382fc935a3a5035e4642a682
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ba\ba602ecc382fc935a3a5035e4642a682
-    projectPath: Library\Artifacts\ba\ba602ecc382fc935a3a5035e4642a682
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bc\bcb1b1035c16113f17490af93af3c86b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bc\bcb1b1035c16113f17490af93af3c86b
-    projectPath: Library\Artifacts\bc\bcb1b1035c16113f17490af93af3c86b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bd\bdc384e68aa0cc35c029205013ce16cd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bd\bdc384e68aa0cc35c029205013ce16cd
-    projectPath: Library\Artifacts\bd\bdc384e68aa0cc35c029205013ce16cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bd\bdf13a77ac05d35df3270a2981447c7d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bd\bdf13a77ac05d35df3270a2981447c7d
-    projectPath: Library\Artifacts\bd\bdf13a77ac05d35df3270a2981447c7d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\be\be9ae92b1bd5947ad87893f869ef62b0
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\be\be9ae92b1bd5947ad87893f869ef62b0
-    projectPath: Library\Artifacts\be\be9ae92b1bd5947ad87893f869ef62b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bf\bf867c0e206a7df4780ec0608a631250
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bf\bf867c0e206a7df4780ec0608a631250
-    projectPath: Library\Artifacts\bf\bf867c0e206a7df4780ec0608a631250
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bf\bf9dad043566db65ab6ea44c5cb9c5d5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bf\bf9dad043566db65ab6ea44c5cb9c5d5
-    projectPath: Library\Artifacts\bf\bf9dad043566db65ab6ea44c5cb9c5d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\bf\bfec55fdb3acdc516e785d8e760f4088
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\bf\bfec55fdb3acdc516e785d8e760f4088
-    projectPath: Library\Artifacts\bf\bfec55fdb3acdc516e785d8e760f4088
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c0\c0fe4416a3d53852df3beeec0b1ea198
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c0\c0fe4416a3d53852df3beeec0b1ea198
-    projectPath: Library\Artifacts\c0\c0fe4416a3d53852df3beeec0b1ea198
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c1\c194db2c77fcb38e3390ac9eb7a27f9c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c1\c194db2c77fcb38e3390ac9eb7a27f9c
-    projectPath: Library\Artifacts\c1\c194db2c77fcb38e3390ac9eb7a27f9c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c2\c2820d0c01ad0542a9694d1181c040a2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c2\c2820d0c01ad0542a9694d1181c040a2
-    projectPath: Library\Artifacts\c2\c2820d0c01ad0542a9694d1181c040a2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c3\c342adeac16cf1ab22354fa9e7acaf19
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c3\c342adeac16cf1ab22354fa9e7acaf19
-    projectPath: Library\Artifacts\c3\c342adeac16cf1ab22354fa9e7acaf19
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c4\c45363557a1d3f8a7aff5c238c3ef430
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c4\c45363557a1d3f8a7aff5c238c3ef430
-    projectPath: Library\Artifacts\c4\c45363557a1d3f8a7aff5c238c3ef430
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c4\c46df79a30fdebaf79e99c405d950b58
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c4\c46df79a30fdebaf79e99c405d950b58
-    projectPath: Library\Artifacts\c4\c46df79a30fdebaf79e99c405d950b58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c4\c483459f98010093cd4a73c1f3bcea54
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c4\c483459f98010093cd4a73c1f3bcea54
-    projectPath: Library\Artifacts\c4\c483459f98010093cd4a73c1f3bcea54
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c4\c48b86d69d0f5c7b25fc0b45672d4699
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c4\c48b86d69d0f5c7b25fc0b45672d4699
-    projectPath: Library\Artifacts\c4\c48b86d69d0f5c7b25fc0b45672d4699
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c5\c54eeddafcd79aee3ec54c6ea100cca3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c5\c54eeddafcd79aee3ec54c6ea100cca3
-    projectPath: Library\Artifacts\c5\c54eeddafcd79aee3ec54c6ea100cca3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c5\c573d55e0fa12a7fb0b454155b2f3e25
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c5\c573d55e0fa12a7fb0b454155b2f3e25
-    projectPath: Library\Artifacts\c5\c573d55e0fa12a7fb0b454155b2f3e25
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c5\c5a5fe69c0a231628f8f152d5b4cdb12
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c5\c5a5fe69c0a231628f8f152d5b4cdb12
-    projectPath: Library\Artifacts\c5\c5a5fe69c0a231628f8f152d5b4cdb12
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c6\c637e6596b9a41642e4819f62668dc46
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c6\c637e6596b9a41642e4819f62668dc46
-    projectPath: Library\Artifacts\c6\c637e6596b9a41642e4819f62668dc46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c7\c787585f4303d7630ed896d43277d9e9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c7\c787585f4303d7630ed896d43277d9e9
-    projectPath: Library\Artifacts\c7\c787585f4303d7630ed896d43277d9e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c9\c901ff144186fc93cca5972d80ca1482
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c9\c901ff144186fc93cca5972d80ca1482
-    projectPath: Library\Artifacts\c9\c901ff144186fc93cca5972d80ca1482
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\c9\c98a02f4e3e2ed9312a52d087e671850
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\c9\c98a02f4e3e2ed9312a52d087e671850
-    projectPath: Library\Artifacts\c9\c98a02f4e3e2ed9312a52d087e671850
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ca\ca5acc913c94d13fac8611bf0ee32dcd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ca\ca5acc913c94d13fac8611bf0ee32dcd
-    projectPath: Library\Artifacts\ca\ca5acc913c94d13fac8611bf0ee32dcd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\cb\cb4c3d823e5b65739614e2913860e744
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\cb\cb4c3d823e5b65739614e2913860e744
-    projectPath: Library\Artifacts\cb\cb4c3d823e5b65739614e2913860e744
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\cb\cb6cdae25a960876b717c367cec90071
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\cb\cb6cdae25a960876b717c367cec90071
-    projectPath: Library\Artifacts\cb\cb6cdae25a960876b717c367cec90071
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\cd\cd97315a615d9e04e259dc3773cbb9b0
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\cd\cd97315a615d9e04e259dc3773cbb9b0
-    projectPath: Library\Artifacts\cd\cd97315a615d9e04e259dc3773cbb9b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d0\d003279bb6293b6b9cc76e1c90ab6382
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d0\d003279bb6293b6b9cc76e1c90ab6382
-    projectPath: Library\Artifacts\d0\d003279bb6293b6b9cc76e1c90ab6382
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d0\d051615e568725a01e7b6fdd6f6ad666
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d0\d051615e568725a01e7b6fdd6f6ad666
-    projectPath: Library\Artifacts\d0\d051615e568725a01e7b6fdd6f6ad666
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d1\d142286956ec35bb895720fae81cffb7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d1\d142286956ec35bb895720fae81cffb7
-    projectPath: Library\Artifacts\d1\d142286956ec35bb895720fae81cffb7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d2\d2b85e21ae56689c5f9a2a6b634828e8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d2\d2b85e21ae56689c5f9a2a6b634828e8
-    projectPath: Library\Artifacts\d2\d2b85e21ae56689c5f9a2a6b634828e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d4\d43399f34075a835feef3dce36e5913f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d4\d43399f34075a835feef3dce36e5913f
-    projectPath: Library\Artifacts\d4\d43399f34075a835feef3dce36e5913f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d5\d527aa877645dc844877069a0faa9d6f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d5\d527aa877645dc844877069a0faa9d6f
-    projectPath: Library\Artifacts\d5\d527aa877645dc844877069a0faa9d6f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d5\d5b65a7adb4340b11e70df7948c92c77
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d5\d5b65a7adb4340b11e70df7948c92c77
-    projectPath: Library\Artifacts\d5\d5b65a7adb4340b11e70df7948c92c77
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d6\d61662eb32d90929589649514c6393cb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d6\d61662eb32d90929589649514c6393cb
-    projectPath: Library\Artifacts\d6\d61662eb32d90929589649514c6393cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d6\d635e3fcfb4777154fba090fb5319409
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d6\d635e3fcfb4777154fba090fb5319409
-    projectPath: Library\Artifacts\d6\d635e3fcfb4777154fba090fb5319409
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\d6\d638d010f6ad5fe20fded99f3aed9a64
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d6\d638d010f6ad5fe20fded99f3aed9a64
-    projectPath: Library\Artifacts\d6\d638d010f6ad5fe20fded99f3aed9a64
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\da\da4b36ddbb9c28e44842d85645374035
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\da\da4b36ddbb9c28e44842d85645374035
-    projectPath: Library\Artifacts\da\da4b36ddbb9c28e44842d85645374035
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\da\daed7e74c23a6f6cb682c74ea55f69f1
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\da\daed7e74c23a6f6cb682c74ea55f69f1
-    projectPath: Library\Artifacts\da\daed7e74c23a6f6cb682c74ea55f69f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\dc\dc00b572e134dc818e3ff14d49ac54c9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\dc\dc00b572e134dc818e3ff14d49ac54c9
-    projectPath: Library\Artifacts\dc\dc00b572e134dc818e3ff14d49ac54c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\dc\dc02e2b0264b525bae654c21f2c23ad5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\dc\dc02e2b0264b525bae654c21f2c23ad5
-    projectPath: Library\Artifacts\dc\dc02e2b0264b525bae654c21f2c23ad5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\dc\dc9465e6d515875fa66d9af957185e7c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\dc\dc9465e6d515875fa66d9af957185e7c
-    projectPath: Library\Artifacts\dc\dc9465e6d515875fa66d9af957185e7c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\dd\ddf80d9cf76d03664fc37ed56b3ecb4b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\dd\ddf80d9cf76d03664fc37ed56b3ecb4b
-    projectPath: Library\Artifacts\dd\ddf80d9cf76d03664fc37ed56b3ecb4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\de\de002ee784acfd45b2c9f56da69e444e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\de\de002ee784acfd45b2c9f56da69e444e
-    projectPath: Library\Artifacts\de\de002ee784acfd45b2c9f56da69e444e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\de\de62570fd28a0f4c1faacf81547fec1c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\de\de62570fd28a0f4c1faacf81547fec1c
-    projectPath: Library\Artifacts\de\de62570fd28a0f4c1faacf81547fec1c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\df\df025c2c3c497d223d8ac133f4c2cac4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\df\df025c2c3c497d223d8ac133f4c2cac4
-    projectPath: Library\Artifacts\df\df025c2c3c497d223d8ac133f4c2cac4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\df\df66c1071d019a8fe69a80a04de90ab4
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\df\df66c1071d019a8fe69a80a04de90ab4
-    projectPath: Library\Artifacts\df\df66c1071d019a8fe69a80a04de90ab4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\df\dfa59ea4db2cc6caebde71cd50a60074
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\df\dfa59ea4db2cc6caebde71cd50a60074
-    projectPath: Library\Artifacts\df\dfa59ea4db2cc6caebde71cd50a60074
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e0\e09ba1f7ae4c89ae47f94a55b649efae
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e0\e09ba1f7ae4c89ae47f94a55b649efae
-    projectPath: Library\Artifacts\e0\e09ba1f7ae4c89ae47f94a55b649efae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e1\e169d6143d2b8397bf9d3a40d6b3b667
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e1\e169d6143d2b8397bf9d3a40d6b3b667
-    projectPath: Library\Artifacts\e1\e169d6143d2b8397bf9d3a40d6b3b667
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e1\e171738e454f072b6aca8c34c4e3660e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e1\e171738e454f072b6aca8c34c4e3660e
-    projectPath: Library\Artifacts\e1\e171738e454f072b6aca8c34c4e3660e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e3\e38d0699a21ae052f778d39da7c5a459
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e3\e38d0699a21ae052f778d39da7c5a459
-    projectPath: Library\Artifacts\e3\e38d0699a21ae052f778d39da7c5a459
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e4\e41a6cb48c75b3f30ad82035708c67fa
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e4\e41a6cb48c75b3f30ad82035708c67fa
-    projectPath: Library\Artifacts\e4\e41a6cb48c75b3f30ad82035708c67fa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e4\e493cb3b6ad77e1e68fce9c0953dd31d
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e4\e493cb3b6ad77e1e68fce9c0953dd31d
-    projectPath: Library\Artifacts\e4\e493cb3b6ad77e1e68fce9c0953dd31d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e5\e517605974fdcfe94d8539dd777c2938
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e5\e517605974fdcfe94d8539dd777c2938
-    projectPath: Library\Artifacts\e5\e517605974fdcfe94d8539dd777c2938
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e5\e5d98e78378e1afabf309f29e57a1d66
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e5\e5d98e78378e1afabf309f29e57a1d66
-    projectPath: Library\Artifacts\e5\e5d98e78378e1afabf309f29e57a1d66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e5\e5e590de00fa146197cbc1d54b1761b8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e5\e5e590de00fa146197cbc1d54b1761b8
-    projectPath: Library\Artifacts\e5\e5e590de00fa146197cbc1d54b1761b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e6\e6c53e3f29cc704cd275abde3b9e5015
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e6\e6c53e3f29cc704cd275abde3b9e5015
-    projectPath: Library\Artifacts\e6\e6c53e3f29cc704cd275abde3b9e5015
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e7\e74d5b5eac82be67aad07578387f28d5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e7\e74d5b5eac82be67aad07578387f28d5
-    projectPath: Library\Artifacts\e7\e74d5b5eac82be67aad07578387f28d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e8\e8b0c9551ac82fe7070791ae74541a1b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e8\e8b0c9551ac82fe7070791ae74541a1b
-    projectPath: Library\Artifacts\e8\e8b0c9551ac82fe7070791ae74541a1b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\e9\e9c377b0202d42053500c290ccd90776
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\e9\e9c377b0202d42053500c290ccd90776
-    projectPath: Library\Artifacts\e9\e9c377b0202d42053500c290ccd90776
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ea\eaab1ad732703af04735304a3d2ebe8c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ea\eaab1ad732703af04735304a3d2ebe8c
-    projectPath: Library\Artifacts\ea\eaab1ad732703af04735304a3d2ebe8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ec\ec693520709f93d329bb77994722b3cf
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ec\ec693520709f93d329bb77994722b3cf
-    projectPath: Library\Artifacts\ec\ec693520709f93d329bb77994722b3cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ee\eeb09d595eae72cfe1729aa620f87522
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ee\eeb09d595eae72cfe1729aa620f87522
-    projectPath: Library\Artifacts\ee\eeb09d595eae72cfe1729aa620f87522
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ef\ef0296ba79eec17b1a5ccd7e47f16ae8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ef\ef0296ba79eec17b1a5ccd7e47f16ae8
-    projectPath: Library\Artifacts\ef\ef0296ba79eec17b1a5ccd7e47f16ae8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ef\efa70ead0af6a676d810e5ff03de81ae
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ef\efa70ead0af6a676d810e5ff03de81ae
-    projectPath: Library\Artifacts\ef\efa70ead0af6a676d810e5ff03de81ae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f0\f053c2494c62082bfd4e550ea393671e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f0\f053c2494c62082bfd4e550ea393671e
-    projectPath: Library\Artifacts\f0\f053c2494c62082bfd4e550ea393671e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f0\f0628319b232cc3060d24d74e15d17a6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f0\f0628319b232cc3060d24d74e15d17a6
-    projectPath: Library\Artifacts\f0\f0628319b232cc3060d24d74e15d17a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f1\f13421c6113c596bc5fe168d509a1a2e
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f1\f13421c6113c596bc5fe168d509a1a2e
-    projectPath: Library\Artifacts\f1\f13421c6113c596bc5fe168d509a1a2e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f2\f222f95d8013dd111b7c0e75e6c632ff
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f2\f222f95d8013dd111b7c0e75e6c632ff
-    projectPath: Library\Artifacts\f2\f222f95d8013dd111b7c0e75e6c632ff
+  - path: FactionLocked\Library\Artifacts\0f\0f601623e281716544fbec3967ca7ba7
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\0f\0f601623e281716544fbec3967ca7ba7
+    projectPath: Library\Artifacts\0f\0f601623e281716544fbec3967ca7ba7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked\Library\Artifacts\f3\f312b63faa46914e6a8287df2392c1d2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f3\f312b63faa46914e6a8287df2392c1d2
-    projectPath: Library\Artifacts\f3\f312b63faa46914e6a8287df2392c1d2
+  - path: FactionLocked\Library\Artifacts\24\24154fd836b0fb4a39f3554bef528430
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\24\24154fd836b0fb4a39f3554bef528430
+    projectPath: Library\Artifacts\24\24154fd836b0fb4a39f3554bef528430
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f3\f3c5ce1c773e3f314e1dd9d21d017c66
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f3\f3c5ce1c773e3f314e1dd9d21d017c66
-    projectPath: Library\Artifacts\f3\f3c5ce1c773e3f314e1dd9d21d017c66
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\28\283bf99be510c1a29eb112ad87de49a7
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\28\283bf99be510c1a29eb112ad87de49a7
+    projectPath: Library\Artifacts\28\283bf99be510c1a29eb112ad87de49a7
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f4\f46ccd416d2851baf2e9d6453ecf7562
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f4\f46ccd416d2851baf2e9d6453ecf7562
-    projectPath: Library\Artifacts\f4\f46ccd416d2851baf2e9d6453ecf7562
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\29\29300e0cb0c62381151ae460a02192a0
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\29\29300e0cb0c62381151ae460a02192a0
+    projectPath: Library\Artifacts\29\29300e0cb0c62381151ae460a02192a0
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f4\f486b00e0d9df6020a293600c50c3c30
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f4\f486b00e0d9df6020a293600c50c3c30
-    projectPath: Library\Artifacts\f4\f486b00e0d9df6020a293600c50c3c30
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\42\42016d7c077bb69e00b9641eaa72f680
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\42\42016d7c077bb69e00b9641eaa72f680
+    projectPath: Library\Artifacts\42\42016d7c077bb69e00b9641eaa72f680
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f5\f5f48fdbd18bd7a75997c0e2f5bd43cf
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f5\f5f48fdbd18bd7a75997c0e2f5bd43cf
-    projectPath: Library\Artifacts\f5\f5f48fdbd18bd7a75997c0e2f5bd43cf
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\42\42c7219225c7dc9ea8c0a235fc398971
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\42\42c7219225c7dc9ea8c0a235fc398971
+    projectPath: Library\Artifacts\42\42c7219225c7dc9ea8c0a235fc398971
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\f9\f9fc2c0d3a8a0e7c2c7beaa527caba86
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f9\f9fc2c0d3a8a0e7c2c7beaa527caba86
-    projectPath: Library\Artifacts\f9\f9fc2c0d3a8a0e7c2c7beaa527caba86
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\45\45bc9980c7a01c4019b6cc2ef9695cd7
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\45\45bc9980c7a01c4019b6cc2ef9695cd7
+    projectPath: Library\Artifacts\45\45bc9980c7a01c4019b6cc2ef9695cd7
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\Artifacts\fa\fa1ed8e149ce5ec2aba882144739d7c8
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\fa\fa1ed8e149ce5ec2aba882144739d7c8
-    projectPath: Library\Artifacts\fa\fa1ed8e149ce5ec2aba882144739d7c8
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\4c\4caa2b64148919b17c52674a2cd3667a
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\4c\4caa2b64148919b17c52674a2cd3667a
+    projectPath: Library\Artifacts\4c\4caa2b64148919b17c52674a2cd3667a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\fb\fb6fa71a411ed871e44d3578fdde10b6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\fb\fb6fa71a411ed871e44d3578fdde10b6
-    projectPath: Library\Artifacts\fb\fb6fa71a411ed871e44d3578fdde10b6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\5f\5fb05ac746978224015d3a13a5880652
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\5f\5fb05ac746978224015d3a13a5880652
+    projectPath: Library\Artifacts\5f\5fb05ac746978224015d3a13a5880652
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\fd\fd348ebe64b487303e087ff0c23c92e3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\fd\fd348ebe64b487303e087ff0c23c92e3
-    projectPath: Library\Artifacts\fd\fd348ebe64b487303e087ff0c23c92e3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\63\6304981fcb19addbe0f4ea919495cc0f
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\63\6304981fcb19addbe0f4ea919495cc0f
+    projectPath: Library\Artifacts\63\6304981fcb19addbe0f4ea919495cc0f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\fd\fd6d39a06d7097173b1be2e5aeb90368
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\fd\fd6d39a06d7097173b1be2e5aeb90368
-    projectPath: Library\Artifacts\fd\fd6d39a06d7097173b1be2e5aeb90368
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\68\681859535620d7598f90066eebeeef5a
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\68\681859535620d7598f90066eebeeef5a
+    projectPath: Library\Artifacts\68\681859535620d7598f90066eebeeef5a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\fe\fe5ccd8c43f49016af18117656f62c7f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\fe\fe5ccd8c43f49016af18117656f62c7f
-    projectPath: Library\Artifacts\fe\fe5ccd8c43f49016af18117656f62c7f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\68\68a2c1eb9db5472717db4f6d83c8591b
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\68\68a2c1eb9db5472717db4f6d83c8591b
+    projectPath: Library\Artifacts\68\68a2c1eb9db5472717db4f6d83c8591b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ff\ff9581c97ddeccb8d7c5c1bcbbe66316
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ff\ff9581c97ddeccb8d7c5c1bcbbe66316
-    projectPath: Library\Artifacts\ff\ff9581c97ddeccb8d7c5c1bcbbe66316
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Library\Artifacts\ff\ffc9d517871a1b3065aec26a70aa1eba
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ff\ffc9d517871a1b3065aec26a70aa1eba
-    projectPath: Library\Artifacts\ff\ffc9d517871a1b3065aec26a70aa1eba
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\6f\6f01f48e204355e5531d0e93f8c21ca4
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6f\6f01f48e204355e5531d0e93f8c21ca4
+    projectPath: Library\Artifacts\6f\6f01f48e204355e5531d0e93f8c21ca4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\6f\6f36abe147d52d3a0356d021b1f985a9
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\6f\6f36abe147d52d3a0356d021b1f985a9
+    projectPath: Library\Artifacts\6f\6f36abe147d52d3a0356d021b1f985a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\74\74ce7f8ee8cc6c59ff938ca46ff724e3
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\74\74ce7f8ee8cc6c59ff938ca46ff724e3
+    projectPath: Library\Artifacts\74\74ce7f8ee8cc6c59ff938ca46ff724e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\93\9377ef568b9a3e61e182cf8a13b840f0
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\93\9377ef568b9a3e61e182cf8a13b840f0
+    projectPath: Library\Artifacts\93\9377ef568b9a3e61e182cf8a13b840f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\a4\a4d1b9ba9b68639463c71175380c94c9
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a4\a4d1b9ba9b68639463c71175380c94c9
+    projectPath: Library\Artifacts\a4\a4d1b9ba9b68639463c71175380c94c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\a9\a947f154738039cf06706af887b3d25d
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\a9\a947f154738039cf06706af887b3d25d
+    projectPath: Library\Artifacts\a9\a947f154738039cf06706af887b3d25d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\af\afaf3e8e6b3d85dd9bb81062e44f9201
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\af\afaf3e8e6b3d85dd9bb81062e44f9201
+    projectPath: Library\Artifacts\af\afaf3e8e6b3d85dd9bb81062e44f9201
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\b1\b14bd51220c462ea382a88eef8dbd673
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\b1\b14bd51220c462ea382a88eef8dbd673
+    projectPath: Library\Artifacts\b1\b14bd51220c462ea382a88eef8dbd673
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\d4\d4785f7632caee6a1572c37992e806b2
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d4\d4785f7632caee6a1572c37992e806b2
+    projectPath: Library\Artifacts\d4\d4785f7632caee6a1572c37992e806b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\d7\d7493be0b925f1778320d453b5032cf9
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\d7\d7493be0b925f1778320d453b5032cf9
+    projectPath: Library\Artifacts\d7\d7493be0b925f1778320d453b5032cf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\db\db0e1995f49deea93c9f5f2a7c16c8be
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\db\db0e1995f49deea93c9f5f2a7c16c8be
+    projectPath: Library\Artifacts\db\db0e1995f49deea93c9f5f2a7c16c8be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\de\deac6dd5bd21692fc285d46b3da41ee9
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\de\deac6dd5bd21692fc285d46b3da41ee9
+    projectPath: Library\Artifacts\de\deac6dd5bd21692fc285d46b3da41ee9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\ef\ef7c481bb0a97c00c87433c053b920ad
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ef\ef7c481bb0a97c00c87433c053b920ad
+    projectPath: Library\Artifacts\ef\ef7c481bb0a97c00c87433c053b920ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\f8\f8ce5e3ef9c7c2ea218c5b98116e061d
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\f8\f8ce5e3ef9c7c2ea218c5b98116e061d
+    projectPath: Library\Artifacts\f8\f8ce5e3ef9c7c2ea218c5b98116e061d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Library\Artifacts\ff\ffd091675b5680c2d07992ea3ef370f3
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\Artifacts\ff\ffd091675b5680c2d07992ea3ef370f3
+    projectPath: Library\Artifacts\ff\ffd091675b5680c2d07992ea3ef370f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked\Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
@@ -2152,12 +214,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked\Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: FactionLocked\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -2167,12 +223,6 @@ MonoBehaviour:
   - path: FactionLocked\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2194,21 +244,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: FactionLocked\Library\LastSceneManagerSetup.txt
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\LastSceneManagerSetup.txt
     projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2218,171 +256,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\ShaderCache\0\06b0d3aa0a7bd0a6802cdbd06608fc34.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\0\06b0d3aa0a7bd0a6802cdbd06608fc34.bin
-    projectPath: Library\ShaderCache\0\06b0d3aa0a7bd0a6802cdbd06608fc34.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Library\ShaderCache\2\278bb68ee6b53c0000e391d27e7760c2.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\2\278bb68ee6b53c0000e391d27e7760c2.bin
-    projectPath: Library\ShaderCache\2\278bb68ee6b53c0000e391d27e7760c2.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\3\344220144a6282892cd953b48d8ee08f.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\3\344220144a6282892cd953b48d8ee08f.bin
-    projectPath: Library\ShaderCache\3\344220144a6282892cd953b48d8ee08f.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\5\5c94710635cee120f22cdd5aea2d13db.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\5\5c94710635cee120f22cdd5aea2d13db.bin
-    projectPath: Library\ShaderCache\5\5c94710635cee120f22cdd5aea2d13db.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\6\60e838e98a8dd1424c0fd9e967bdd29e.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\6\60e838e98a8dd1424c0fd9e967bdd29e.bin
-    projectPath: Library\ShaderCache\6\60e838e98a8dd1424c0fd9e967bdd29e.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\6\6d8476e764fa117c3fb88c5e9e079952.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\6\6d8476e764fa117c3fb88c5e9e079952.bin
-    projectPath: Library\ShaderCache\6\6d8476e764fa117c3fb88c5e9e079952.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\7\75abc1943b8a2f6613c7170b91776e53.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\7\75abc1943b8a2f6613c7170b91776e53.bin
-    projectPath: Library\ShaderCache\7\75abc1943b8a2f6613c7170b91776e53.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\8\8952cde754c672831f9b0e0c1b3bbfde.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\8\8952cde754c672831f9b0e0c1b3bbfde.bin
-    projectPath: Library\ShaderCache\8\8952cde754c672831f9b0e0c1b3bbfde.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\9\9744649489bc346c6c0e27eaefaaf79e.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\9\9744649489bc346c6c0e27eaefaaf79e.bin
-    projectPath: Library\ShaderCache\9\9744649489bc346c6c0e27eaefaaf79e.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\b\b286bd4a34111a85c0861c6a42444f3b.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\b\b286bd4a34111a85c0861c6a42444f3b.bin
-    projectPath: Library\ShaderCache\b\b286bd4a34111a85c0861c6a42444f3b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Library\ShaderCache\c\c73e54ac1c03cd7f90446ad04977ad00.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\c\c73e54ac1c03cd7f90446ad04977ad00.bin
-    projectPath: Library\ShaderCache\c\c73e54ac1c03cd7f90446ad04977ad00.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked\Library\ShaderCache\d\d8655370456d41fbfd8c62f8c6ef2587.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\d\d8655370456d41fbfd8c62f8c6ef2587.bin
-    projectPath: Library\ShaderCache\d\d8655370456d41fbfd8c62f8c6ef2587.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Library\ShaderCache\e\e816d42623092388c2b883188d26102e.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\e\e816d42623092388c2b883188d26102e.bin
-    projectPath: Library\ShaderCache\e\e816d42623092388c2b883188d26102e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked\Library\ShaderCache\e\ee283cb1725302ed1f3a20ac419bd487.bin
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\e\ee283cb1725302ed1f3a20ac419bd487.bin
-    projectPath: Library\ShaderCache\e\ee283cb1725302ed1f3a20ac419bd487.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
   - path: FactionLocked\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2398,21 +274,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+  - path: FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2422,15 +286,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\Library\StateCache\SceneView\0c4b7a-mainStage.json
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\StateCache\SceneView\0c4b7a-mainStage.json
-    projectPath: Library\StateCache\SceneView\0c4b7a-mainStage.json
+  - path: FactionLocked\Library\StateCache\Hierarchy\febc75-mainStage.json
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\StateCache\Hierarchy\febc75-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\febc75-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: FactionLocked\Library\StateCache\SceneView\0c4b7a-mainStage.json
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Library\StateCache\SceneView\0c4b7a-mainStage.json
+    projectPath: Library\StateCache\SceneView\0c4b7a-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2438,227 +302,161 @@ MonoBehaviour:
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked\Temp\UnityLockfile
     fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked\Temp\UnityTempFile-0212407aa661fcb42a3e031d378a13cc
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-0212407aa661fcb42a3e031d378a13cc
-    projectPath: Temp\UnityTempFile-0212407aa661fcb42a3e031d378a13cc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-13f90693e79273148b557119a57492fb
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-13f90693e79273148b557119a57492fb
+    projectPath: Temp\UnityTempFile-13f90693e79273148b557119a57492fb
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-0bcd1b55bc23e5f4f8cc8e63736aaf4a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-0bcd1b55bc23e5f4f8cc8e63736aaf4a
-    projectPath: Temp\UnityTempFile-0bcd1b55bc23e5f4f8cc8e63736aaf4a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-1d89284ffe5108a4a8c79b316b022f40
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-1d89284ffe5108a4a8c79b316b022f40
+    projectPath: Temp\UnityTempFile-1d89284ffe5108a4a8c79b316b022f40
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-1e26934ec19946e42a55554b6ef79a69
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-1e26934ec19946e42a55554b6ef79a69
-    projectPath: Temp\UnityTempFile-1e26934ec19946e42a55554b6ef79a69
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-3ba6c2a738f227141849cd8a17847314
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-3ba6c2a738f227141849cd8a17847314
+    projectPath: Temp\UnityTempFile-3ba6c2a738f227141849cd8a17847314
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-229e18081faa3eb488eae5c8f774febb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-229e18081faa3eb488eae5c8f774febb
-    projectPath: Temp\UnityTempFile-229e18081faa3eb488eae5c8f774febb
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-415381caf135507448b41260f6ab48ed
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-415381caf135507448b41260f6ab48ed
+    projectPath: Temp\UnityTempFile-415381caf135507448b41260f6ab48ed
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-24caed2789a324f3aab8291eb7f6aca3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-24caed2789a324f3aab8291eb7f6aca3
-    projectPath: Temp\UnityTempFile-24caed2789a324f3aab8291eb7f6aca3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-4726e62addbc1544096567ca5fd90e1f
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-4726e62addbc1544096567ca5fd90e1f
+    projectPath: Temp\UnityTempFile-4726e62addbc1544096567ca5fd90e1f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-40dd6775a83e9454d91bbc538ac7471b
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-40dd6775a83e9454d91bbc538ac7471b
-    projectPath: Temp\UnityTempFile-40dd6775a83e9454d91bbc538ac7471b
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-4b8107815855dd34d82b4cbec3a7be93
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-4b8107815855dd34d82b4cbec3a7be93
+    projectPath: Temp\UnityTempFile-4b8107815855dd34d82b4cbec3a7be93
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-425c18a764f1d4d079d9edea49f89342
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-425c18a764f1d4d079d9edea49f89342
-    projectPath: Temp\UnityTempFile-425c18a764f1d4d079d9edea49f89342
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-572e3aa479544554c9d6410c14cc1a25
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-572e3aa479544554c9d6410c14cc1a25
+    projectPath: Temp\UnityTempFile-572e3aa479544554c9d6410c14cc1a25
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-510be1d80c1ec4b448f33cee9ab10545
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-510be1d80c1ec4b448f33cee9ab10545
-    projectPath: Temp\UnityTempFile-510be1d80c1ec4b448f33cee9ab10545
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-6379a49c665c8944a96e897b34944a56
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-6379a49c665c8944a96e897b34944a56
+    projectPath: Temp\UnityTempFile-6379a49c665c8944a96e897b34944a56
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-52013d478782347d395ef0f0aa13c2da
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-52013d478782347d395ef0f0aa13c2da
-    projectPath: Temp\UnityTempFile-52013d478782347d395ef0f0aa13c2da
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-63ef04472300d67429d33d6ae9ffad28
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-63ef04472300d67429d33d6ae9ffad28
+    projectPath: Temp\UnityTempFile-63ef04472300d67429d33d6ae9ffad28
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-5cc31ae54a45e45c88b9ec9564a8faba
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-5cc31ae54a45e45c88b9ec9564a8faba
-    projectPath: Temp\UnityTempFile-5cc31ae54a45e45c88b9ec9564a8faba
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-704d0bbb811aa304e8f1c536ac8f076e
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-704d0bbb811aa304e8f1c536ac8f076e
+    projectPath: Temp\UnityTempFile-704d0bbb811aa304e8f1c536ac8f076e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-64122cf6d3f677d4bb8c6ea774dbe307
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-64122cf6d3f677d4bb8c6ea774dbe307
-    projectPath: Temp\UnityTempFile-64122cf6d3f677d4bb8c6ea774dbe307
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-77e0476ef420a55458bb5eebfc599f75
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-77e0476ef420a55458bb5eebfc599f75
+    projectPath: Temp\UnityTempFile-77e0476ef420a55458bb5eebfc599f75
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-6903f437f4dd8cc49b431201f9f30a0a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-6903f437f4dd8cc49b431201f9f30a0a
-    projectPath: Temp\UnityTempFile-6903f437f4dd8cc49b431201f9f30a0a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-810e33f8311faa2498b2b6ec5c1a58de
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-810e33f8311faa2498b2b6ec5c1a58de
+    projectPath: Temp\UnityTempFile-810e33f8311faa2498b2b6ec5c1a58de
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-692cb3689f89f824bbf2709897ad7c82
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-692cb3689f89f824bbf2709897ad7c82
-    projectPath: Temp\UnityTempFile-692cb3689f89f824bbf2709897ad7c82
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-988cc6a23ff183f4c9a1157c20b11154
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-988cc6a23ff183f4c9a1157c20b11154
+    projectPath: Temp\UnityTempFile-988cc6a23ff183f4c9a1157c20b11154
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-748b5752b35494d4ea1b8f57dcadf84f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-748b5752b35494d4ea1b8f57dcadf84f
-    projectPath: Temp\UnityTempFile-748b5752b35494d4ea1b8f57dcadf84f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-9b5528c95abe25348a0d405ed0125812
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-9b5528c95abe25348a0d405ed0125812
+    projectPath: Temp\UnityTempFile-9b5528c95abe25348a0d405ed0125812
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-75f8107453bbd7b499113686c5c019f3
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-75f8107453bbd7b499113686c5c019f3
-    projectPath: Temp\UnityTempFile-75f8107453bbd7b499113686c5c019f3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-adaf95e9632d0b84e818ea2a3e6beec7
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-adaf95e9632d0b84e818ea2a3e6beec7
+    projectPath: Temp\UnityTempFile-adaf95e9632d0b84e818ea2a3e6beec7
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-7a82130b5ba850144b1d2ec5f57e4363
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-7a82130b5ba850144b1d2ec5f57e4363
-    projectPath: Temp\UnityTempFile-7a82130b5ba850144b1d2ec5f57e4363
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-af1e376ea0f2cc547be65a44972812ce
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-af1e376ea0f2cc547be65a44972812ce
+    projectPath: Temp\UnityTempFile-af1e376ea0f2cc547be65a44972812ce
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-83338a71859cb864cb0704c31e5c4944
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-83338a71859cb864cb0704c31e5c4944
-    projectPath: Temp\UnityTempFile-83338a71859cb864cb0704c31e5c4944
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-b728809eefe13014d962789f0df3690b
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-b728809eefe13014d962789f0df3690b
+    projectPath: Temp\UnityTempFile-b728809eefe13014d962789f0df3690b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-88f866c1a5bee4f2ba42a0d7a4b1decd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-88f866c1a5bee4f2ba42a0d7a4b1decd
-    projectPath: Temp\UnityTempFile-88f866c1a5bee4f2ba42a0d7a4b1decd
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-c54dcb1bf79fe1e4d9d8b5436d1ac85a
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c54dcb1bf79fe1e4d9d8b5436d1ac85a
+    projectPath: Temp\UnityTempFile-c54dcb1bf79fe1e4d9d8b5436d1ac85a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-95221ff994c946c459c10000a5877989
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-95221ff994c946c459c10000a5877989
-    projectPath: Temp\UnityTempFile-95221ff994c946c459c10000a5877989
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-e56e4eec37f9565458db7a028699b8c9
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-e56e4eec37f9565458db7a028699b8c9
+    projectPath: Temp\UnityTempFile-e56e4eec37f9565458db7a028699b8c9
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-aa91793c59fdc46fdb881f7cd6e9fbc7
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-aa91793c59fdc46fdb881f7cd6e9fbc7
-    projectPath: Temp\UnityTempFile-aa91793c59fdc46fdb881f7cd6e9fbc7
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-f13e824c88b283f489cf0550c92fe91e
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-f13e824c88b283f489cf0550c92fe91e
+    projectPath: Temp\UnityTempFile-f13e824c88b283f489cf0550c92fe91e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-ab36249ef1856e343aa0d8050e06781a
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-ab36249ef1856e343aa0d8050e06781a
-    projectPath: Temp\UnityTempFile-ab36249ef1856e343aa0d8050e06781a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-f3e166331ffc4614988d27492ff658b0
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-f3e166331ffc4614988d27492ff658b0
+    projectPath: Temp\UnityTempFile-f3e166331ffc4614988d27492ff658b0
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-b1e9b4849c62a8d48bcac9db6aedb507
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-b1e9b4849c62a8d48bcac9db6aedb507
-    projectPath: Temp\UnityTempFile-b1e9b4849c62a8d48bcac9db6aedb507
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-f55e3260855ca55449529e771d5489cc
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-f55e3260855ca55449529e771d5489cc
+    projectPath: Temp\UnityTempFile-f55e3260855ca55449529e771d5489cc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-bae607a8a2aaa481697a433b83397cb2
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-bae607a8a2aaa481697a433b83397cb2
-    projectPath: Temp\UnityTempFile-bae607a8a2aaa481697a433b83397cb2
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-f8ed188d8b9f16148aacd7f08409cf98
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-f8ed188d8b9f16148aacd7f08409cf98
+    projectPath: Temp\UnityTempFile-f8ed188d8b9f16148aacd7f08409cf98
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-c59518a0faf582f47b395ecd43cb4485
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c59518a0faf582f47b395ecd43cb4485
-    projectPath: Temp\UnityTempFile-c59518a0faf582f47b395ecd43cb4485
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-fd93fbcf266a0574b9ea92fa8c9f829c
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-fd93fbcf266a0574b9ea92fa8c9f829c
+    projectPath: Temp\UnityTempFile-fd93fbcf266a0574b9ea92fa8c9f829c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-c643e702904f6c449a2a48ee55f7dcc5
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c643e702904f6c449a2a48ee55f7dcc5
-    projectPath: Temp\UnityTempFile-c643e702904f6c449a2a48ee55f7dcc5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked\Temp\UnityTempFile-feae5605f053c43478e27f0875154991
+    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-feae5605f053c43478e27f0875154991
+    projectPath: Temp\UnityTempFile-feae5605f053c43478e27f0875154991
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-c6ff90fd764a66847a251660e0b20383
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c6ff90fd764a66847a251660e0b20383
-    projectPath: Temp\UnityTempFile-c6ff90fd764a66847a251660e0b20383
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-c768972d77b4e0c40b291b170306aeb6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c768972d77b4e0c40b291b170306aeb6
-    projectPath: Temp\UnityTempFile-c768972d77b4e0c40b291b170306aeb6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-c8c9d26e15aef4c47b27b2fd6457c03c
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-c8c9d26e15aef4c47b27b2fd6457c03c
-    projectPath: Temp\UnityTempFile-c8c9d26e15aef4c47b27b2fd6457c03c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-caf5a766330884c2cb6f6a98c53dcb69
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-caf5a766330884c2cb6f6a98c53dcb69
-    projectPath: Temp\UnityTempFile-caf5a766330884c2cb6f6a98c53dcb69
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-dba08d2e3a95fba4dac9b2a70dd8e5e6
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-dba08d2e3a95fba4dac9b2a70dd8e5e6
-    projectPath: Temp\UnityTempFile-dba08d2e3a95fba4dac9b2a70dd8e5e6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-ded7bd8712d99bc4d92461f92f7109bc
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-ded7bd8712d99bc4d92461f92f7109bc
-    projectPath: Temp\UnityTempFile-ded7bd8712d99bc4d92461f92f7109bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-dfa95954767e45e4f92fb4728b7ef3d9
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-dfa95954767e45e4f92fb4728b7ef3d9
-    projectPath: Temp\UnityTempFile-dfa95954767e45e4f92fb4728b7ef3d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-e143be9a073d6446c8a8c89eff2876fd
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-e143be9a073d6446c8a8c89eff2876fd
-    projectPath: Temp\UnityTempFile-e143be9a073d6446c8a8c89eff2876fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-e2728b431f1999b4683117ff7d62dcfb
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-e2728b431f1999b4683117ff7d62dcfb
-    projectPath: Temp\UnityTempFile-e2728b431f1999b4683117ff7d62dcfb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-ee708f97fe2dc754f9e8663229515a7f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-ee708f97fe2dc754f9e8663229515a7f
-    projectPath: Temp\UnityTempFile-ee708f97fe2dc754f9e8663229515a7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked\Temp\UnityTempFile-f19fab4ae6e0f4d0e8a71c422a17eb3f
-    fullPath: C:\Users\tessa\OneDrive\Desktop\info490\IslandSurvival\FactionLocked\Temp\UnityTempFile-f19fab4ae6e0f4d0e8a71c422a17eb3f
-    projectPath: Temp\UnityTempFile-f19fab4ae6e0f4d0e8a71c422a17eb3f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
