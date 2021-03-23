@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// makes the 'go to next text box' indicator bob up and down
 public class BobNextButton : MonoBehaviour
 {
     private float elapse = 0.0f; 

@@ -10,11 +10,15 @@ public class InteractDialogue : MonoBehaviour
     public Behaviour halo;
     public GameObject dialogueCanvas;
     public GameObject dialogueManager;
+    
+    private string speakerName = null;
+    private Color speakerColor = Color.black;
 
     // Start is called before the first frame update
     void Start()
     {
         dialogueCanvas.SetActive(false);
+        speakerName = this.name;
     }
 
     // Update is called once per frame
@@ -24,6 +28,8 @@ public class InteractDialogue : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E) && inRange && !dialogueCanvas.activeSelf)
         {
             dialogueCanvas.SetActive(true);
+            // dialogueManager.GetComponent<Dialogue>().SetBoxStyle(speakerName, speakerColor);
+            dialogueManager.GetComponent<Dialogue>().SetCharacterIndex(speakerName);
             dialogueManager.GetComponent<Dialogue>().ResetDialogue();
             Debug.Log("User interacted with a character. Brings up Dialogue Box");
         }

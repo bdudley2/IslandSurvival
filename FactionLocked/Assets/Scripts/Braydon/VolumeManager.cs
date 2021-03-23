@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using System;
 
+// Manages Volume (mainly just lowers/raises/mutes the looped music)
 public class VolumeManager : MonoBehaviour
 {
     public AudioSource loopMusic;
